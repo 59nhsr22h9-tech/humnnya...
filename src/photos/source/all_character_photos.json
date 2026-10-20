@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "characterId": "lim-hyeongwoo",
+      "photos": [
+        {
+          "id": "lim-hyeongwoo-photo-001",
+          "src": "/photos/lim-hyeongwoo/01_beatles_photo.jpeg",
+          "alt": "비틀즈 공연 장면의 흑백 사진",
+          "order": 1
+        },
+        {
+          "id": "lim-hyeongwoo-photo-002",
+          "src": "/photos/lim-hyeongwoo/02_polaroid_notes.jpeg",
+          "alt": "손글씨 노트와 여러 장의 폴라로이드 사진",
+          "order": 2
+        },
+        {
+          "id": "lim-hyeongwoo-photo-003",
+          "src": "/photos/lim-hyeongwoo/03_bridge_at_dusk.jpeg",
+          "alt": "해 질 녘 이동 중에 바라본 다리와 도시의 불빛",
+          "order": 3
+        }
+      ]
+    },
+    {
+      "characterId": "yoon-yeondo",
+      "photos": [
+        {
+          "id": "yoon-yeondo-photo-001",
+          "src": "/photos/yoon-yeondo/01_sketches_paint.jpeg",
+          "alt": "스케치, 그림 도구, 돋보기가 있는 작업대",
+          "order": 1
+        },
+        {
+          "id": "yoon-yeondo-photo-002",
+          "src": "/photos/yoon-yeondo/02_rolled_papers.jpeg",
+          "alt": "여러 종이와 말아 놓은 그림이 쌓인 작업실 선반",
+          "order": 2
+        },
+        {
+          "id": "yoon-yeondo-photo-003",
+          "src": "/photos/yoon-yeondo/03_blurred_people.jpeg",
+          "alt": "푸른빛으로 흐릿하게 보이는 여러 인물의 이미지",
+          "order": 3
+        }
+      ]
+    },
+    {
+      "characterId": "kang-ryeoun",
+      "photos": [
+        {
+          "id": "kang-ryeoun-photo-001",
+          "src": "/photos/kang-ryeoun/01_window_at_dusk.jpeg",
+          "alt": "열린 창문 너머로 보이는 해 질 녘 아파트",
+          "order": 1
+        },
+        {
+          "id": "kang-ryeoun-photo-002",
+          "src": "/photos/kang-ryeoun/02_moscow_night_map.jpeg",
+          "alt": "모스크바가 표시된 유럽 야간 지도 화면",
+          "order": 2
+        },
+        {
+          "id": "kang-ryeoun-photo-003",
+          "src": "/photos/kang-ryeoun/03_snowy_courtyard.jpeg",
+          "alt": "눈 덮인 아파트 단지의 겨울 풍경",
+          "order": 3
+        }
+      ]
+    }
+  ]
+}

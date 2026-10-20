@@ -1,0 +1,46 @@
+/* Scoped to the existing Notes app. The source body stays plain, unedited text. */
+.app-screen.notes-shell{background:#f2f2f6}
+.notes-shell>.app-back{color:#9b7100}
+.screen:has(.notes-app)>.status-bar{color:#171717;filter:none}
+.screen:has(.notes-one-ui) .app-screen.notes-shell{background:#f5f5f5}
+.notes-shell:has(.notes-one-ui)>.app-back{color:#222}
+.notes-app{position:absolute;inset:80px 0 24px;display:flex;flex-direction:column;min-height:0;color:#1c1c1e;text-shadow:none;--notes-accent:#9b7100}
+.notes-app .notes-heading{padding:10px 17px 16px;flex-shrink:0}
+.notes-app .notes-heading h2{font-size:27px;font-weight:750;line-height:1.2;letter-spacing:-1px;margin:0}
+.notes-list{overflow-y:auto;overscroll-behavior:contain;min-height:0;scrollbar-width:thin;padding:0 13px 15px}
+.notes-section{margin:0 0 19px}
+.notes-section h3{display:flex;align-items:center;gap:5px;font-size:11px;line-height:1.5;font-weight:600;margin:0 5px 8px;color:#606067}
+.notes-section:first-child h3:has(svg){color:var(--notes-accent)}
+.note-group{background:#fff;border-radius:12px;overflow:hidden}
+.note-row{display:flex;align-items:center;gap:8px;width:100%;border:0;background:transparent;padding:13px 13px 12px;text-align:left;color:inherit;position:relative;min-height:62px}
+.note-row:not(:last-child):after{content:'';position:absolute;height:.5px;background:#e2e2e7;bottom:0;left:13px;right:0}
+.note-row:active{background:#e9e9ef}
+.note-row-label{display:flex;flex-direction:column;min-width:0;gap:5px;flex:1}
+.note-row-label strong{font-size:12px;font-weight:600;line-height:1.5;white-space:pre-wrap;overflow-wrap:anywhere}
+.note-row-label time{color:#85858c;font-size:9px;line-height:1.4;font-variant-numeric:tabular-nums}
+.note-pin{display:grid;place-items:center;color:var(--notes-accent);flex-shrink:0}
+.notes-count,.notes-empty{font-size:9px;line-height:1.5;color:#8b8b92;text-align:center;margin:10px 0 0}
+.note-detail-bar{display:flex;align-items:center;justify-content:space-between;padding:0 13px 9px;gap:8px;flex-shrink:0;min-height:31px}
+.note-detail-back{display:flex;align-items:center;gap:2px;padding:3px 0;color:var(--notes-accent);font-size:11px;background:none;border:0}
+.note-detail-pinned{display:flex;align-items:center;gap:3px;color:var(--notes-accent);font-size:8px}
+.note-detail-scroll{overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin;min-height:0;padding:9px 17px 30px;flex:1;background:#fff}
+.app-screen.notes-shell:has(.note-body){background:#fff}
+.note-detail-date{display:block;text-align:center;font-size:9px;line-height:1.6;color:#8b8b91;margin-bottom:18px;font-variant-numeric:tabular-nums}
+.notes-app h2.note-detail-title{font-size:21px;font-weight:700;letter-spacing:-.6px;line-height:1.5;white-space:break-spaces;overflow-wrap:anywhere;margin:0 0 17px}
+.note-body{font:inherit;font-size:12px;line-height:1.95;white-space:break-spaces;overflow-wrap:anywhere;tab-size:4;user-select:text;min-height:30px;padding:0;margin:0;color:#262628}
+.notes-app button:focus-visible{outline:2px solid var(--notes-accent);outline-offset:-2px;border-radius:8px}
+/* Samsung Notes: wider title spacing, separate rounded cards, warm orange accents. */
+.notes-one-ui{--notes-accent:#c7631f}
+.notes-one-ui .notes-heading{padding:13px 20px 28px}
+.notes-one-ui .notes-heading h2{font-size:25px;font-weight:400;letter-spacing:-.8px;line-height:1.5}
+.notes-one-ui .notes-list{padding:0 14px 18px}
+.notes-one-ui .notes-section h3{font-size:10px;margin-bottom:9px}
+.notes-one-ui .note-group{background:none;border-radius:0;overflow:visible;display:flex;flex-direction:column;gap:8px}
+.notes-one-ui .note-row{background:#fff;border-radius:14px;padding:14px 14px 13px 17px;min-height:66px}
+.notes-one-ui .note-row:before{content:'';position:absolute;left:0;top:17px;bottom:17px;width:3px;border-radius:2px;background:#e0aa7f}
+.notes-one-ui .note-row:not(:last-child):after{display:none}
+.notes-one-ui .note-row-label strong{font-weight:500}
+.notes-one-ui .note-row:active{background:#eee8e3}
+.notes-one-ui .note-detail-back{color:#222}
+.notes-one-ui .note-detail-date{text-align:left;margin-bottom:15px}
+.notes-one-ui .note-detail-scroll{padding-top:16px}

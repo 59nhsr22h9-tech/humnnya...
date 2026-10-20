@@ -1,0 +1,807 @@
+{
+  "characterId": "yoon-yeondo",
+  "characterName": "윤연도",
+  "fictional": true,
+  "displayMode": "read-only",
+  "notes": "해수여고 미술교사 윤연도의 창작 문자 기록 초안. 짧고 건조한 말투, 학생을 존중하는 태도, 작품과 설명 사이에 남기는 빈칸을 중심으로 구성. 최도안 15건·임형우 20건은 기존 원본 문자와 정확히 같고 발신/수신만 반전함. 미술부 부장·오래된 지인·화방·전시자료실 등 추가 상대 및 개별 사건은 창작 설정이며 확정 정사가 아님. owner는 윤연도, contact는 상대방. 방문자는 읽기만 가능.",
+  "conversations": [
+    {
+      "id": "yoon-yeondo__choi-doan",
+      "contactId": "choi-doan",
+      "contactName": "최도안",
+      "category": "동료 교사",
+      "writingNote": "최도안의 기존 기록 15개와 내용 및 시각이 완전히 동일하고 발신/수신만 반전됨.",
+      "messages": [
+        {
+          "id": "yoon-yeondo-001",
+          "sender": "contact",
+          "sentAt": "2026-03-11T15:27:00+09:00",
+          "text": "윤 선생님, 1학년 미술 수업 자료는 미술실에서 받을 수 있을까요?"
+        },
+        {
+          "id": "yoon-yeondo-002",
+          "sender": "owner",
+          "sentAt": "2026-03-11T16:11:00+09:00",
+          "text": "네. 책상 왼쪽에 두었습니다."
+        },
+        {
+          "id": "yoon-yeondo-003",
+          "sender": "contact",
+          "sentAt": "2026-03-11T16:18:00+09:00",
+          "text": "감사합니다. 내일 가져가겠습니다."
+        },
+        {
+          "id": "yoon-yeondo-004",
+          "sender": "owner",
+          "sentAt": "2026-04-17T17:52:00+09:00",
+          "text": "1학년 3반 강려운 학생이 스케치북을 두고 갔습니다. 혹시 찾으면 미술실에 있다고 전해 주세요."
+        },
+        {
+          "id": "yoon-yeondo-005",
+          "sender": "contact",
+          "sentAt": "2026-04-17T17:55:00+09:00",
+          "text": "알겠습니다. 제가 전달하겠습니다."
+        },
+        {
+          "id": "yoon-yeondo-006",
+          "sender": "owner",
+          "sentAt": "2026-04-17T18:00:00+09:00",
+          "text": "네. 제가 보관하고 있겠습니다."
+        },
+        {
+          "id": "yoon-yeondo-007",
+          "sender": "contact",
+          "sentAt": "2026-05-08T18:04:00+09:00",
+          "text": "지난번 학교 전시 계획안 확인했습니다. 제출 기한이 다가와서요."
+        },
+        {
+          "id": "yoon-yeondo-008",
+          "sender": "owner",
+          "sentAt": "2026-05-08T18:19:00+09:00",
+          "text": "알고 있습니다. 쓰다가 지웠습니다."
+        },
+        {
+          "id": "yoon-yeondo-009",
+          "sender": "contact",
+          "sentAt": "2026-05-08T18:22:00+09:00",
+          "text": "필요하시면 초안 정리는 도와드릴 수 있습니다."
+        },
+        {
+          "id": "yoon-yeondo-010",
+          "sender": "owner",
+          "sentAt": "2026-05-08T18:33:00+09:00",
+          "text": "아닙니다. 제가 할 수 있는 일입니다."
+        },
+        {
+          "id": "yoon-yeondo-011",
+          "sender": "owner",
+          "sentAt": "2026-09-16T18:24:00+09:00",
+          "text": "교무실에 있던 러시아어 전시 도록, 최 선생님 책입니까?"
+        },
+        {
+          "id": "yoon-yeondo-012",
+          "sender": "contact",
+          "sentAt": "2026-09-16T18:29:00+09:00",
+          "text": "제 겁니다. 모스크바에 있을 때 구했습니다."
+        },
+        {
+          "id": "yoon-yeondo-013",
+          "sender": "owner",
+          "sentAt": "2026-09-16T18:34:00+09:00",
+          "text": "그렇군요. 표지가 낯이 익어서요."
+        },
+        {
+          "id": "yoon-yeondo-014",
+          "sender": "contact",
+          "sentAt": "2026-09-16T18:37:00+09:00",
+          "text": "윤 선생님께서 아시는 전시였나요?"
+        },
+        {
+          "id": "yoon-yeondo-015",
+          "sender": "owner",
+          "sentAt": "2026-09-16T18:51:00+09:00",
+          "text": "아주 오래전에 본 적이 있습니다."
+        }
+      ]
+    },
+    {
+      "id": "yoon-yeondo__lim-hyeongwoo",
+      "contactId": "lim-hyeongwoo",
+      "contactName": "임형우",
+      "category": "동료 교사",
+      "writingNote": "임형우의 기존 기록 20개와 내용 및 시각이 완전히 동일하고 발신/수신만 반전됨.",
+      "messages": [
+        {
+          "id": "yoon-yeondo-001",
+          "sender": "contact",
+          "sentAt": "2026-03-13T16:08:00+09:00",
+          "text": "윤 선생님, 영어 동아리 안내문에 들어갈 그림은 어느 쪽으로 전달하면 될까요?"
+        },
+        {
+          "id": "yoon-yeondo-002",
+          "sender": "owner",
+          "sentAt": "2026-03-13T16:41:00+09:00",
+          "text": "교무실 책상 위에 두겠습니다."
+        },
+        {
+          "id": "yoon-yeondo-003",
+          "sender": "contact",
+          "sentAt": "2026-03-13T16:44:00+09:00",
+          "text": "파일로도 괜찮습니다. 제가 크기 맞춰서 출력하겠습니다."
+        },
+        {
+          "id": "yoon-yeondo-004",
+          "sender": "owner",
+          "sentAt": "2026-03-13T16:59:00+09:00",
+          "text": "종이에 그렸습니다. 스캔해서 보내야겠네요."
+        },
+        {
+          "id": "yoon-yeondo-005",
+          "sender": "contact",
+          "sentAt": "2026-03-13T17:03:00+09:00",
+          "text": "종이 그대로 주셔도 됩니다. 기계는 제가 설득하겠습니다."
+        },
+        {
+          "id": "yoon-yeondo-006",
+          "sender": "owner",
+          "sentAt": "2026-04-27T18:02:00+09:00",
+          "text": "전시 안내문 출력이 자꾸 왼쪽으로 밀립니다."
+        },
+        {
+          "id": "yoon-yeondo-007",
+          "sender": "contact",
+          "sentAt": "2026-04-27T18:06:00+09:00",
+          "text": "원본 파일 보내주시면 여백부터 보겠습니다."
+        },
+        {
+          "id": "yoon-yeondo-008",
+          "sender": "owner",
+          "sentAt": "2026-04-27T18:09:00+09:00",
+          "text": "제가 뭘 잘못 건드렸나 봅니다."
+        },
+        {
+          "id": "yoon-yeondo-009",
+          "sender": "contact",
+          "sentAt": "2026-04-27T18:11:00+09:00",
+          "text": "프린터가 잘못한 걸 수도 있습니다. 일단 서로 탓하지 마시죠."
+        },
+        {
+          "id": "yoon-yeondo-010",
+          "sender": "owner",
+          "sentAt": "2026-04-27T18:26:00+09:00",
+          "text": "맞았습니다. 프린터 쪽이었네요."
+        },
+        {
+          "id": "yoon-yeondo-011",
+          "sender": "contact",
+          "sentAt": "2026-05-21T17:14:00+09:00",
+          "text": "지난번 작품 설명문에 비워 두신 칸이 있더군요. 인쇄 전에 확인차 연락드립니다."
+        },
+        {
+          "id": "yoon-yeondo-012",
+          "sender": "owner",
+          "sentAt": "2026-05-21T17:23:00+09:00",
+          "text": "비워 두려고 한 겁니다."
+        },
+        {
+          "id": "yoon-yeondo-013",
+          "sender": "contact",
+          "sentAt": "2026-05-21T17:25:00+09:00",
+          "text": "알겠습니다. 그 칸은 그대로 두겠습니다."
+        },
+        {
+          "id": "yoon-yeondo-014",
+          "sender": "owner",
+          "sentAt": "2026-07-09T19:08:00+09:00",
+          "text": "영어실 빔프로젝터 전원이 안 꺼져서요. 당직실에 말해야 합니까?"
+        },
+        {
+          "id": "yoon-yeondo-015",
+          "sender": "contact",
+          "sentAt": "2026-07-09T19:11:00+09:00",
+          "text": "리모컨 배터리 문제일 수 있습니다. 본체 버튼 한번 눌러 보시겠어요?"
+        },
+        {
+          "id": "yoon-yeondo-016",
+          "sender": "owner",
+          "sentAt": "2026-07-09T19:14:00+09:00",
+          "text": "꺼졌습니다. 감사합니다."
+        },
+        {
+          "id": "yoon-yeondo-017",
+          "sender": "contact",
+          "sentAt": "2026-07-09T19:17:00+09:00",
+          "text": "다행입니다. 내일은 배터리 바꿔 두겠습니다."
+        },
+        {
+          "id": "yoon-yeondo-018",
+          "sender": "contact",
+          "sentAt": "2026-09-22T17:39:00+09:00",
+          "text": "미술실 앞에 학생들이 두고 간 물품 목록을 전달받았습니다. 교무실에 붙일까요?"
+        },
+        {
+          "id": "yoon-yeondo-019",
+          "sender": "owner",
+          "sentAt": "2026-09-22T18:02:00+09:00",
+          "text": "아닙니다. 찾으러 오는 학생이 많아서 제가 직접 보관하겠습니다."
+        },
+        {
+          "id": "yoon-yeondo-020",
+          "sender": "contact",
+          "sentAt": "2026-09-22T18:07:00+09:00",
+          "text": "알겠습니다. 선생님이 계신 곳으로 안내하겠습니다."
+        }
+      ]
+    },
+    {
+      "id": "yoon-yeondo__kang-ryeoun",
+      "contactId": "kang-ryeoun",
+      "contactName": "강려운",
+      "category": "학생",
+      "writingNote": "강려운과의 대화는 미술 수업과 그림, 학생의 선택을 존중하는 교사의 태도에 한정. 사적인 탐문이나 특별한 친밀함을 넣지 않음.",
+      "messages": [
+        {
+          "id": "kang-ryeoun-001",
+          "sender": "contact",
+          "sentAt": "2026-03-17T16:08:00+09:00",
+          "text": "선생님 과제는 꼭 사람을 그려야 하나요"
+        },
+        {
+          "id": "kang-ryeoun-002",
+          "sender": "owner",
+          "sentAt": "2026-03-17T16:31:00+09:00",
+          "text": "아니요. 관찰해서 그릴 수 있는 대상이면 됩니다."
+        },
+        {
+          "id": "kang-ryeoun-003",
+          "sender": "contact",
+          "sentAt": "2026-03-17T16:33:00+09:00",
+          "text": "그럼 빈 의자도 돼요?"
+        },
+        {
+          "id": "kang-ryeoun-004",
+          "sender": "owner",
+          "sentAt": "2026-03-17T16:45:00+09:00",
+          "text": "됩니다. 왜 그 의자를 골랐는지만 적어 오세요."
+        },
+        {
+          "id": "kang-ryeoun-005",
+          "sender": "contact",
+          "sentAt": "2026-03-17T16:46:00+09:00",
+          "text": "네 감사합니다"
+        },
+        {
+          "id": "kang-ryeoun-006",
+          "sender": "owner",
+          "sentAt": "2026-04-17T18:10:00+09:00",
+          "text": "강려운 학생, 스케치북을 미술실에 두고 갔습니다. 제가 보관 중입니다."
+        },
+        {
+          "id": "kang-ryeoun-007",
+          "sender": "contact",
+          "sentAt": "2026-04-17T18:14:00+09:00",
+          "text": "아 담임선생님한테도 들었어요 ㅠㅠ"
+        },
+        {
+          "id": "kang-ryeoun-008",
+          "sender": "owner",
+          "sentAt": "2026-04-17T18:17:00+09:00",
+          "text": "월요일 쉬는 시간에 찾아가세요."
+        },
+        {
+          "id": "kang-ryeoun-009",
+          "sender": "contact",
+          "sentAt": "2026-04-17T18:20:00+09:00",
+          "text": "네 감사합니다"
+        },
+        {
+          "id": "kang-ryeoun-010",
+          "sender": "contact",
+          "sentAt": "2026-05-29T18:10:00+09:00",
+          "text": "선생님 그림 설명도 꼭 써야 해요?"
+        },
+        {
+          "id": "kang-ryeoun-011",
+          "sender": "owner",
+          "sentAt": "2026-05-29T18:18:00+09:00",
+          "text": "두세 문장이면 됩니다. 그림에 없는 이야기를 억지로 쓸 필요는 없어요."
+        },
+        {
+          "id": "kang-ryeoun-012",
+          "sender": "contact",
+          "sentAt": "2026-05-29T18:22:00+09:00",
+          "text": "그냥 안 쓴 칸이 있는데 괜찮을까요"
+        },
+        {
+          "id": "kang-ryeoun-013",
+          "sender": "owner",
+          "sentAt": "2026-05-29T18:30:00+09:00",
+          "text": "평가 항목에 필요한 부분은 채워야 합니다. 나머지는 그대로 둬도 됩니다."
+        },
+        {
+          "id": "kang-ryeoun-014",
+          "sender": "contact",
+          "sentAt": "2026-09-09T17:05:00+09:00",
+          "text": "선생님 전시할 그림 다른 걸로 바꿔도 돼요"
+        },
+        {
+          "id": "kang-ryeoun-015",
+          "sender": "owner",
+          "sentAt": "2026-09-09T17:14:00+09:00",
+          "text": "가능합니다. 아직 출력 전입니다."
+        },
+        {
+          "id": "kang-ryeoun-016",
+          "sender": "contact",
+          "sentAt": "2026-09-09T17:17:00+09:00",
+          "text": "원래 거에 집이 그려져 있어서요"
+        },
+        {
+          "id": "kang-ryeoun-017",
+          "sender": "owner",
+          "sentAt": "2026-09-09T17:25:00+09:00",
+          "text": "이유까지 설명하지 않아도 됩니다. 다른 작품을 내세요."
+        },
+        {
+          "id": "kang-ryeoun-018",
+          "sender": "contact",
+          "sentAt": "2026-09-09T17:26:00+09:00",
+          "text": "감사합니다"
+        },
+        {
+          "id": "kang-ryeoun-019",
+          "sender": "owner",
+          "sentAt": "2026-09-09T17:31:00+09:00",
+          "text": "내일 미술실 문 옆 제출함에 넣어 두세요."
+        }
+      ]
+    },
+    {
+      "id": "yoon-yeondo__art-club-leader",
+      "contactId": "art-club-leader",
+      "contactName": "미술부 부장",
+      "category": "학생·동아리",
+      "writingNote": "이름·성격이 확정되지 않은 새 학생을 저장명으로만 처리. 윤연도의 지시가 짧고 구체적임.",
+      "messages": [
+        {
+          "id": "art-club-leader-001",
+          "sender": "contact",
+          "sentAt": "2026-03-31T15:54:00+09:00",
+          "text": "선생님 전시실 벽에 지난번 그림 아직 걸려 있어요"
+        },
+        {
+          "id": "art-club-leader-002",
+          "sender": "owner",
+          "sentAt": "2026-03-31T16:02:00+09:00",
+          "text": "금요일까지 그대로 두세요. 종이 모서리가 들린 것만 확인하고요."
+        },
+        {
+          "id": "art-club-leader-003",
+          "sender": "contact",
+          "sentAt": "2026-03-31T16:05:00+09:00",
+          "text": "테이프로 붙일까요?"
+        },
+        {
+          "id": "art-club-leader-004",
+          "sender": "owner",
+          "sentAt": "2026-03-31T16:11:00+09:00",
+          "text": "작품 위에는 붙이지 마세요. 제가 내일 고치겠습니다."
+        },
+        {
+          "id": "art-club-leader-005",
+          "sender": "contact",
+          "sentAt": "2026-05-26T18:03:00+09:00",
+          "text": "선생님 작품 이름 없는 친구들 있는데 그냥 무제로 써도 돼요?"
+        },
+        {
+          "id": "art-club-leader-006",
+          "sender": "owner",
+          "sentAt": "2026-05-26T18:20:00+09:00",
+          "text": "본인이 정한 제목이면 가능합니다. 먼저 물어보세요."
+        },
+        {
+          "id": "art-club-leader-007",
+          "sender": "contact",
+          "sentAt": "2026-05-26T18:22:00+09:00",
+          "text": "선생님은 제목 꼭 붙이세요?"
+        },
+        {
+          "id": "art-club-leader-008",
+          "sender": "owner",
+          "sentAt": "2026-05-26T18:40:00+09:00",
+          "text": "안 붙일 때도 있습니다."
+        },
+        {
+          "id": "art-club-leader-009",
+          "sender": "contact",
+          "sentAt": "2026-05-26T18:41:00+09:00",
+          "text": "오 좀 멋있어요"
+        },
+        {
+          "id": "art-club-leader-010",
+          "sender": "owner",
+          "sentAt": "2026-05-26T18:49:00+09:00",
+          "text": "제목보다 작품 확인이 먼저입니다."
+        },
+        {
+          "id": "art-club-leader-011",
+          "sender": "contact",
+          "sentAt": "2026-08-28T17:16:00+09:00",
+          "text": "전시회 사진 학교 SNS에 올려도 되나요"
+        },
+        {
+          "id": "art-club-leader-012",
+          "sender": "owner",
+          "sentAt": "2026-08-28T17:24:00+09:00",
+          "text": "작품별로 만든 학생에게 먼저 허락받으세요. 이름은 동의한 사람만 적고요."
+        },
+        {
+          "id": "art-club-leader-013",
+          "sender": "contact",
+          "sentAt": "2026-08-28T17:29:00+09:00",
+          "text": "네 알겠습니다"
+        },
+        {
+          "id": "art-club-leader-014",
+          "sender": "contact",
+          "sentAt": "2026-10-07T16:12:00+09:00",
+          "text": "선생님 커터랑 자는 정리했는데 종이가 남았어요"
+        },
+        {
+          "id": "art-club-leader-015",
+          "sender": "owner",
+          "sentAt": "2026-10-07T16:19:00+09:00",
+          "text": "색지와 도화지 나눠서 미술실 뒤쪽 서랍에 넣으세요."
+        },
+        {
+          "id": "art-club-leader-016",
+          "sender": "contact",
+          "sentAt": "2026-10-07T16:20:00+09:00",
+          "text": "넵"
+        }
+      ]
+    },
+    {
+      "id": "yoon-yeondo__school-office",
+      "contactId": "school-office",
+      "contactName": "해수여고 교무부",
+      "category": "학교 행정",
+      "writingNote": "미술실 및 전시 업무의 보통 공문·비품·평가 행정 연락. 교무부는 개인이 아닌 기관 연락처로 처리.",
+      "messages": [
+        {
+          "id": "school-office-001",
+          "sender": "contact",
+          "sentAt": "2026-03-04T08:34:00+09:00",
+          "text": "윤 선생님, 미술실 보조 열쇠 수령 확인 부탁드립니다."
+        },
+        {
+          "id": "school-office-002",
+          "sender": "owner",
+          "sentAt": "2026-03-04T09:02:00+09:00",
+          "text": "수령했습니다."
+        },
+        {
+          "id": "school-office-003",
+          "sender": "contact",
+          "sentAt": "2026-04-13T10:21:00+09:00",
+          "text": "학년별 실기 준비물 목록 오늘 16시까지 전달 부탁드립니다."
+        },
+        {
+          "id": "school-office-004",
+          "sender": "owner",
+          "sentAt": "2026-04-13T12:11:00+09:00",
+          "text": "3학년 항목만 확인하고 보내겠습니다."
+        },
+        {
+          "id": "school-office-005",
+          "sender": "owner",
+          "sentAt": "2026-04-13T15:48:00+09:00",
+          "text": "목록 전달했습니다."
+        },
+        {
+          "id": "school-office-006",
+          "sender": "contact",
+          "sentAt": "2026-05-08T17:58:00+09:00",
+          "text": "교내 전시 계획안이 아직 제출되지 않았습니다. 일정 확인 바랍니다."
+        },
+        {
+          "id": "school-office-007",
+          "sender": "owner",
+          "sentAt": "2026-05-08T18:35:00+09:00",
+          "text": "확인했습니다. 내일 오전 중 제출하겠습니다."
+        },
+        {
+          "id": "school-office-008",
+          "sender": "owner",
+          "sentAt": "2026-05-09T09:24:00+09:00",
+          "text": "계획안 보냈습니다."
+        },
+        {
+          "id": "school-office-009",
+          "sender": "contact",
+          "sentAt": "2026-08-20T14:43:00+09:00",
+          "text": "하반기 미술실 비품 조사표 확인 부탁드립니다."
+        },
+        {
+          "id": "school-office-010",
+          "sender": "owner",
+          "sentAt": "2026-08-20T15:07:00+09:00",
+          "text": "물감과 종이 수량은 수정해서 드리겠습니다."
+        },
+        {
+          "id": "school-office-011",
+          "sender": "owner",
+          "sentAt": "2026-08-20T16:12:00+09:00",
+          "text": "수정본 전달했습니다."
+        },
+        {
+          "id": "school-office-012",
+          "sender": "contact",
+          "sentAt": "2026-10-06T16:44:00+09:00",
+          "text": "2학기 실기평가 자료 보관 장소를 알려 주십시오."
+        },
+        {
+          "id": "school-office-013",
+          "sender": "owner",
+          "sentAt": "2026-10-06T17:19:00+09:00",
+          "text": "미술실 잠금장치 있는 수납장에 보관했습니다."
+        }
+      ]
+    },
+    {
+      "id": "yoon-yeondo__old-acquaintance",
+      "contactId": "old-acquaintance",
+      "contactName": "오래된 지인",
+      "category": "개인",
+      "writingNote": "과거 예술 활동을 공유한 사이로 읽힐 수 있는 창작 인물. 과거 작품, 활동 시기, 관계의 정체는 확정하지 않음.",
+      "messages": [
+        {
+          "id": "old-acquaintance-001",
+          "sender": "contact",
+          "sentAt": "2026-03-28T20:02:00+09:00",
+          "text": "창고 정리하다가 네 이름 적힌 봉투가 나왔어."
+        },
+        {
+          "id": "old-acquaintance-002",
+          "sender": "owner",
+          "sentAt": "2026-03-28T21:11:00+09:00",
+          "text": "버려도 돼."
+        },
+        {
+          "id": "old-acquaintance-003",
+          "sender": "contact",
+          "sentAt": "2026-03-28T21:18:00+09:00",
+          "text": "열어보지도 않고?"
+        },
+        {
+          "id": "old-acquaintance-004",
+          "sender": "owner",
+          "sentAt": "2026-03-28T21:40:00+09:00",
+          "text": "종이일 거야."
+        },
+        {
+          "id": "old-acquaintance-005",
+          "sender": "contact",
+          "sentAt": "2026-03-28T21:45:00+09:00",
+          "text": "종이는 다 종이지."
+        },
+        {
+          "id": "old-acquaintance-006",
+          "sender": "owner",
+          "sentAt": "2026-03-28T22:03:00+09:00",
+          "text": "그러네."
+        },
+        {
+          "id": "old-acquaintance-007",
+          "sender": "contact",
+          "sentAt": "2026-06-07T14:08:00+09:00",
+          "text": "그때 전시 도록 다시 봤어. 네 글은 한 줄도 없더라."
+        },
+        {
+          "id": "old-acquaintance-008",
+          "sender": "owner",
+          "sentAt": "2026-06-07T14:32:00+09:00",
+          "text": "원래 없었어."
+        },
+        {
+          "id": "old-acquaintance-009",
+          "sender": "contact",
+          "sentAt": "2026-06-07T14:40:00+09:00",
+          "text": "그땐 왜 아무 말 안 했어?"
+        },
+        {
+          "id": "old-acquaintance-010",
+          "sender": "owner",
+          "sentAt": "2026-06-07T15:06:00+09:00",
+          "text": "쓸 말이 없었어."
+        },
+        {
+          "id": "old-acquaintance-011",
+          "sender": "contact",
+          "sentAt": "2026-06-07T15:19:00+09:00",
+          "text": "지금도?"
+        },
+        {
+          "id": "old-acquaintance-012",
+          "sender": "owner",
+          "sentAt": "2026-06-07T15:51:00+09:00",
+          "text": "지금은 더."
+        },
+        {
+          "id": "old-acquaintance-013",
+          "sender": "contact",
+          "sentAt": "2026-09-17T23:07:00+09:00",
+          "text": "낡은 도록을 찾는 사람이 있대. 혹시 네가 연락한 거야?"
+        },
+        {
+          "id": "old-acquaintance-014",
+          "sender": "owner",
+          "sentAt": "2026-09-17T23:20:00+09:00",
+          "text": "아니."
+        },
+        {
+          "id": "old-acquaintance-015",
+          "sender": "contact",
+          "sentAt": "2026-09-17T23:23:00+09:00",
+          "text": "러시아어로 된 거 말이야."
+        },
+        {
+          "id": "old-acquaintance-016",
+          "sender": "owner",
+          "sentAt": "2026-09-17T23:37:00+09:00",
+          "text": "그건 나한테 묻지 마."
+        },
+        {
+          "id": "old-acquaintance-017",
+          "sender": "contact",
+          "sentAt": "2026-09-17T23:43:00+09:00",
+          "text": "알았어. 안 물을게."
+        },
+        {
+          "id": "old-acquaintance-018",
+          "sender": "owner",
+          "sentAt": "2026-09-17T23:48:00+09:00",
+          "text": "고마워."
+        }
+      ]
+    },
+    {
+      "id": "yoon-yeondo__art-store",
+      "contactId": "art-store",
+      "contactName": "화방",
+      "category": "구매처",
+      "writingNote": "동네 재료상과의 업무적 대화. 실재 상호와 개인정보를 넣지 않음.",
+      "messages": [
+        {
+          "id": "art-store-001",
+          "sender": "owner",
+          "sentAt": "2026-03-23T12:22:00+09:00",
+          "text": "A2 도화지 100매, 목탄 한 상자 재고 있습니까?"
+        },
+        {
+          "id": "art-store-002",
+          "sender": "contact",
+          "sentAt": "2026-03-23T12:30:00+09:00",
+          "text": "도화지는 있고 목탄은 내일 오후에 들어옵니다."
+        },
+        {
+          "id": "art-store-003",
+          "sender": "owner",
+          "sentAt": "2026-03-23T12:34:00+09:00",
+          "text": "목탄 입고 후 함께 보내 주세요."
+        },
+        {
+          "id": "art-store-004",
+          "sender": "contact",
+          "sentAt": "2026-03-23T12:40:00+09:00",
+          "text": "학교로 배송하면 될까요?"
+        },
+        {
+          "id": "art-store-005",
+          "sender": "owner",
+          "sentAt": "2026-03-23T12:43:00+09:00",
+          "text": "네. 미술실로 부탁드립니다."
+        },
+        {
+          "id": "art-store-006",
+          "sender": "contact",
+          "sentAt": "2026-06-16T11:05:00+09:00",
+          "text": "주문하신 흰색 젯소는 큰 통만 남았습니다."
+        },
+        {
+          "id": "art-store-007",
+          "sender": "owner",
+          "sentAt": "2026-06-16T11:28:00+09:00",
+          "text": "작은 통 입고되면 연락 부탁드립니다."
+        },
+        {
+          "id": "art-store-008",
+          "sender": "owner",
+          "sentAt": "2026-08-25T17:52:00+09:00",
+          "text": "지난번 구매한 종이가 평소보다 많이 휘어 있습니다."
+        },
+        {
+          "id": "art-store-009",
+          "sender": "contact",
+          "sentAt": "2026-08-25T18:02:00+09:00",
+          "text": "보관 중 습기를 먹었을 수 있어요. 교환해 드리겠습니다."
+        },
+        {
+          "id": "art-store-010",
+          "sender": "owner",
+          "sentAt": "2026-08-25T18:11:00+09:00",
+          "text": "내일 사진 보내겠습니다. 감사합니다."
+        }
+      ]
+    },
+    {
+      "id": "yoon-yeondo__archive",
+      "contactId": "archive",
+      "contactName": "전시자료실",
+      "category": "기관·자료실",
+      "writingNote": "예전 전시 관련 자료를 열람하려는 문자. 윤연도의 과거를 단정하지 않고 정서적 단서만 남김.",
+      "messages": [
+        {
+          "id": "archive-001",
+          "sender": "owner",
+          "sentAt": "2026-07-02T10:13:00+09:00",
+          "text": "안녕하세요. 예전 전시 도록의 열람 가능 여부를 문의드립니다."
+        },
+        {
+          "id": "archive-002",
+          "sender": "contact",
+          "sentAt": "2026-07-02T11:20:00+09:00",
+          "text": "전시명이나 발행연도를 알려 주시면 확인해 드리겠습니다."
+        },
+        {
+          "id": "archive-003",
+          "sender": "owner",
+          "sentAt": "2026-07-02T13:07:00+09:00",
+          "text": "연도를 정확히 기억하지 못합니다. 표지 색과 전시 공간 이름은 적어 두었습니다."
+        },
+        {
+          "id": "archive-004",
+          "sender": "contact",
+          "sentAt": "2026-07-02T13:20:00+09:00",
+          "text": "관련 자료를 찾아보겠습니다."
+        },
+        {
+          "id": "archive-005",
+          "sender": "contact",
+          "sentAt": "2026-07-06T15:33:00+09:00",
+          "text": "비슷한 도록 두 권이 확인됐습니다. 방문 열람 가능합니다."
+        },
+        {
+          "id": "archive-006",
+          "sender": "owner",
+          "sentAt": "2026-07-06T15:58:00+09:00",
+          "text": "보관 상태가 괜찮습니까?"
+        },
+        {
+          "id": "archive-007",
+          "sender": "contact",
+          "sentAt": "2026-07-06T16:04:00+09:00",
+          "text": "일부 페이지에 변색이 있지만 열람은 가능합니다."
+        },
+        {
+          "id": "archive-008",
+          "sender": "owner",
+          "sentAt": "2026-07-06T16:17:00+09:00",
+          "text": "알겠습니다. 방문 전에 다시 연락드리겠습니다."
+        },
+        {
+          "id": "archive-009",
+          "sender": "contact",
+          "sentAt": "2026-09-23T12:10:00+09:00",
+          "text": "문의하신 추가 인쇄본은 확인되지 않았습니다."
+        },
+        {
+          "id": "archive-010",
+          "sender": "owner",
+          "sentAt": "2026-09-23T13:01:00+09:00",
+          "text": "확인해 주셔서 감사합니다."
+        }
+      ]
+    }
+  ]
+}

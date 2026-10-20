@@ -1,0 +1,948 @@
+{
+  "characterId": "kang-ryeoun",
+  "characterName": "강려운",
+  "fictional": true,
+  "displayMode": "read-only",
+  "notes": "해수여고 1학년 3반 학생 강려운의 창작 문자 기록 초안. 러시아 학교 재학 경력과 부친 관련 소문의 배경을 사용함. 최도안 20건·임형우 17건·윤연도 19건은 기존 자료와 원문·시간·메시지 ID를 보존하고 발신/수신만 반전함. 아빠·같은 반 친구·반장·러시아 때 친구 대화는 새로운 창작 초안이므로 기존에 확정되지 않은 구체적인 사실로 간주하지 말 것. owner는 강려운, contact는 대화 상대. 방문자에게는 읽기 전용으로 표시. 같은 문자 ID가 다른 대화방에서 중복될 수 있으니 화면 키는 대화방 ID와 문자 ID를 조합해 사용할 것.",
+  "conversations": [
+    {
+      "id": "kang-ryeoun__choi-doan",
+      "contactId": "choi-doan",
+      "contactName": "최도안",
+      "category": "담임교사",
+      "writingNote": "최도안의 기존 데이터에서 가져온 원문. 날짜와 메시지 ID·본문을 그대로 보존하고 발신/수신만 반전함.",
+      "messages": [
+        {
+          "id": "kang-ryeoun-001",
+          "sender": "contact",
+          "sentAt": "2026-03-09T16:21:00+09:00",
+          "text": "강려운 학생, 진로희망 조사서가 아직 제출되지 않았습니다. 내일 아침까지 부탁합니다."
+        },
+        {
+          "id": "kang-ryeoun-002",
+          "sender": "owner",
+          "sentAt": "2026-03-09T16:47:00+09:00",
+          "text": "네. 죄송합니다"
+        },
+        {
+          "id": "kang-ryeoun-003",
+          "sender": "contact",
+          "sentAt": "2026-03-09T16:49:00+09:00",
+          "text": "사과할 일은 아닙니다. 늦어질 때만 미리 알려주세요."
+        },
+        {
+          "id": "kang-ryeoun-004",
+          "sender": "owner",
+          "sentAt": "2026-03-09T16:50:00+09:00",
+          "text": "네 선생님"
+        },
+        {
+          "id": "kang-ryeoun-005",
+          "sender": "owner",
+          "sentAt": "2026-03-18T18:12:00+09:00",
+          "text": "선생님 생활기록부에 해외 학교 다닌 것도 적어야 하나요"
+        },
+        {
+          "id": "kang-ryeoun-006",
+          "sender": "contact",
+          "sentAt": "2026-03-18T18:16:00+09:00",
+          "text": "학교에서 요청한 기간만 적으면 됩니다. 러시아에서 다녔던 기간도 포함이고요."
+        },
+        {
+          "id": "kang-ryeoun-007",
+          "sender": "owner",
+          "sentAt": "2026-03-18T18:18:00+09:00",
+          "text": "어디까지 써야 할지 잘 모르겠어서요"
+        },
+        {
+          "id": "kang-ryeoun-008",
+          "sender": "contact",
+          "sentAt": "2026-03-18T18:23:00+09:00",
+          "text": "내일 학교에서 양식을 같이 확인해 봅시다. 문자로 자세히 적을 필요는 없습니다."
+        },
+        {
+          "id": "kang-ryeoun-009",
+          "sender": "owner",
+          "sentAt": "2026-04-08T19:04:00+09:00",
+          "text": "선생님 내일 상담 꼭 해야 하나요"
+        },
+        {
+          "id": "kang-ryeoun-010",
+          "sender": "contact",
+          "sentAt": "2026-04-08T19:12:00+09:00",
+          "text": "꼭 내일 해야 하는 건 아닙니다. 불편하면 다른 날로 바꾸죠."
+        },
+        {
+          "id": "kang-ryeoun-011",
+          "sender": "owner",
+          "sentAt": "2026-04-08T19:15:00+09:00",
+          "text": "그러면 다음 주로 해도 돼요?"
+        },
+        {
+          "id": "kang-ryeoun-012",
+          "sender": "contact",
+          "sentAt": "2026-04-08T19:17:00+09:00",
+          "text": "네. 다음 주에 학교에서 이야기합시다."
+        },
+        {
+          "id": "kang-ryeoun-013",
+          "sender": "owner",
+          "sentAt": "2026-06-10T17:06:00+09:00",
+          "text": "선생님 오늘 애들이 저한테 왜 러시아 얘기 안 하냐고 물어봤어요"
+        },
+        {
+          "id": "kang-ryeoun-014",
+          "sender": "contact",
+          "sentAt": "2026-06-10T17:12:00+09:00",
+          "text": "대답하기 싫은 이야기는 하지 않아도 됩니다. 내일 반 전체에 사적인 질문을 존중하는 문제를 이야기하겠습니다."
+        },
+        {
+          "id": "kang-ryeoun-015",
+          "sender": "owner",
+          "sentAt": "2026-06-10T17:14:00+09:00",
+          "text": "제가 말한 거라고는 하지 말아주세요"
+        },
+        {
+          "id": "kang-ryeoun-016",
+          "sender": "contact",
+          "sentAt": "2026-06-10T17:16:00+09:00",
+          "text": "알겠습니다. 특정 학생 이야기로 하지 않겠습니다."
+        },
+        {
+          "id": "kang-ryeoun-017",
+          "sender": "owner",
+          "sentAt": "2026-09-04T19:09:00+09:00",
+          "text": "선생님 저희 아빠 얘기 무슨 일인지 알고 계세요?"
+        },
+        {
+          "id": "kang-ryeoun-018",
+          "sender": "contact",
+          "sentAt": "2026-09-04T19:13:00+09:00",
+          "text": "확인되지 않은 이야기를 문자로 전하기는 어렵습니다. 내일 학교에서 필요한 도움을 함께 생각해 봅시다."
+        },
+        {
+          "id": "kang-ryeoun-019",
+          "sender": "owner",
+          "sentAt": "2026-09-04T19:15:00+09:00",
+          "text": "저한테 거짓말하시는 건 아니죠?"
+        },
+        {
+          "id": "kang-ryeoun-020",
+          "sender": "contact",
+          "sentAt": "2026-09-04T19:21:00+09:00",
+          "text": "제가 모르는 걸 아는 척해서 말하지는 않겠습니다."
+        }
+      ]
+    },
+    {
+      "id": "kang-ryeoun__lim-hyeongwoo",
+      "contactId": "lim-hyeongwoo",
+      "contactName": "임형우",
+      "category": "영어교사",
+      "writingNote": "임형우의 기존 데이터에서 가져온 원문. 날짜와 메시지 ID·본문을 그대로 보존하고 발신/수신만 반전함.",
+      "messages": [
+        {
+          "id": "kang-ryeoun-001",
+          "sender": "owner",
+          "sentAt": "2026-03-20T16:09:00+09:00",
+          "text": "선생님 듣기평가 대본 어디서 받을 수 있어요?"
+        },
+        {
+          "id": "kang-ryeoun-002",
+          "sender": "contact",
+          "sentAt": "2026-03-20T16:13:00+09:00",
+          "text": "학교 홈페이지 영어과 자료실에 올려 뒀습니다. 안 보이면 내일 프린트로 줄게요."
+        },
+        {
+          "id": "kang-ryeoun-003",
+          "sender": "owner",
+          "sentAt": "2026-03-20T16:16:00+09:00",
+          "text": "찾았어요 감사합니다"
+        },
+        {
+          "id": "kang-ryeoun-004",
+          "sender": "contact",
+          "sentAt": "2026-03-20T16:18:00+09:00",
+          "text": "네. 모르는 표현은 표시해 두세요."
+        },
+        {
+          "id": "kang-ryeoun-005",
+          "sender": "owner",
+          "sentAt": "2026-06-11T18:02:00+09:00",
+          "text": "선생님 제가 발표할 때 발음이 좀 이상했나요"
+        },
+        {
+          "id": "kang-ryeoun-006",
+          "sender": "contact",
+          "sentAt": "2026-06-11T18:09:00+09:00",
+          "text": "그렇지 않았습니다. 내용 전달은 충분히 됐어요."
+        },
+        {
+          "id": "kang-ryeoun-007",
+          "sender": "owner",
+          "sentAt": "2026-06-11T18:11:00+09:00",
+          "text": "애들이 자꾸 웃어서요"
+        },
+        {
+          "id": "kang-ryeoun-008",
+          "sender": "contact",
+          "sentAt": "2026-06-11T18:15:00+09:00",
+          "text": "그 일은 제가 수업 시간에 다시 이야기하겠습니다. 네 발표가 틀렸다는 뜻은 아닙니다."
+        },
+        {
+          "id": "kang-ryeoun-009",
+          "sender": "owner",
+          "sentAt": "2026-06-11T18:18:00+09:00",
+          "text": "네 알겠습니다"
+        },
+        {
+          "id": "kang-ryeoun-010",
+          "sender": "contact",
+          "sentAt": "2026-07-15T17:22:00+09:00",
+          "text": "려운 학생, 지난번 과제에서 두 번째 문장이 빠졌습니다. 제출 오류인지 확인해 주세요."
+        },
+        {
+          "id": "kang-ryeoun-011",
+          "sender": "owner",
+          "sentAt": "2026-07-15T17:30:00+09:00",
+          "text": "제가 지웠나 봐요 다시 내도 될까요"
+        },
+        {
+          "id": "kang-ryeoun-012",
+          "sender": "contact",
+          "sentAt": "2026-07-15T17:34:00+09:00",
+          "text": "내일 점심시간 전까지 다시 내면 됩니다. 서두르지 않아도 돼요."
+        },
+        {
+          "id": "kang-ryeoun-013",
+          "sender": "owner",
+          "sentAt": "2026-07-15T17:38:00+09:00",
+          "text": "네 감사합니다"
+        },
+        {
+          "id": "kang-ryeoun-014",
+          "sender": "owner",
+          "sentAt": "2026-09-07T20:14:00+09:00",
+          "text": "선생님 영어 수행에서 가족 이야기 꼭 써야 돼요?"
+        },
+        {
+          "id": "kang-ryeoun-015",
+          "sender": "contact",
+          "sentAt": "2026-09-07T20:20:00+09:00",
+          "text": "아니요. 본인이 편하게 쓸 수 있는 일상이나 책 이야기로 바꿔도 됩니다."
+        },
+        {
+          "id": "kang-ryeoun-016",
+          "sender": "owner",
+          "sentAt": "2026-09-07T20:22:00+09:00",
+          "text": "그렇게 해도 감점 없죠?"
+        },
+        {
+          "id": "kang-ryeoun-017",
+          "sender": "contact",
+          "sentAt": "2026-09-07T20:25:00+09:00",
+          "text": "평가 기준만 충족하면 없습니다. 과제는 영어 표현을 보는 거니까요."
+        }
+      ]
+    },
+    {
+      "id": "kang-ryeoun__yoon-yeondo",
+      "contactId": "yoon-yeondo",
+      "contactName": "윤연도",
+      "category": "미술교사",
+      "writingNote": "윤연도의 기존 데이터에서 가져온 원문. 날짜와 메시지 ID·본문을 그대로 보존하고 발신/수신만 반전함.",
+      "messages": [
+        {
+          "id": "kang-ryeoun-001",
+          "sender": "owner",
+          "sentAt": "2026-03-17T16:08:00+09:00",
+          "text": "선생님 과제는 꼭 사람을 그려야 하나요"
+        },
+        {
+          "id": "kang-ryeoun-002",
+          "sender": "contact",
+          "sentAt": "2026-03-17T16:31:00+09:00",
+          "text": "아니요. 관찰해서 그릴 수 있는 대상이면 됩니다."
+        },
+        {
+          "id": "kang-ryeoun-003",
+          "sender": "owner",
+          "sentAt": "2026-03-17T16:33:00+09:00",
+          "text": "그럼 빈 의자도 돼요?"
+        },
+        {
+          "id": "kang-ryeoun-004",
+          "sender": "contact",
+          "sentAt": "2026-03-17T16:45:00+09:00",
+          "text": "됩니다. 왜 그 의자를 골랐는지만 적어 오세요."
+        },
+        {
+          "id": "kang-ryeoun-005",
+          "sender": "owner",
+          "sentAt": "2026-03-17T16:46:00+09:00",
+          "text": "네 감사합니다"
+        },
+        {
+          "id": "kang-ryeoun-006",
+          "sender": "contact",
+          "sentAt": "2026-04-17T18:10:00+09:00",
+          "text": "강려운 학생, 스케치북을 미술실에 두고 갔습니다. 제가 보관 중입니다."
+        },
+        {
+          "id": "kang-ryeoun-007",
+          "sender": "owner",
+          "sentAt": "2026-04-17T18:14:00+09:00",
+          "text": "아 담임선생님한테도 들었어요 ㅠㅠ"
+        },
+        {
+          "id": "kang-ryeoun-008",
+          "sender": "contact",
+          "sentAt": "2026-04-17T18:17:00+09:00",
+          "text": "월요일 쉬는 시간에 찾아가세요."
+        },
+        {
+          "id": "kang-ryeoun-009",
+          "sender": "owner",
+          "sentAt": "2026-04-17T18:20:00+09:00",
+          "text": "네 감사합니다"
+        },
+        {
+          "id": "kang-ryeoun-010",
+          "sender": "owner",
+          "sentAt": "2026-05-29T18:10:00+09:00",
+          "text": "선생님 그림 설명도 꼭 써야 해요?"
+        },
+        {
+          "id": "kang-ryeoun-011",
+          "sender": "contact",
+          "sentAt": "2026-05-29T18:18:00+09:00",
+          "text": "두세 문장이면 됩니다. 그림에 없는 이야기를 억지로 쓸 필요는 없어요."
+        },
+        {
+          "id": "kang-ryeoun-012",
+          "sender": "owner",
+          "sentAt": "2026-05-29T18:22:00+09:00",
+          "text": "그냥 안 쓴 칸이 있는데 괜찮을까요"
+        },
+        {
+          "id": "kang-ryeoun-013",
+          "sender": "contact",
+          "sentAt": "2026-05-29T18:30:00+09:00",
+          "text": "평가 항목에 필요한 부분은 채워야 합니다. 나머지는 그대로 둬도 됩니다."
+        },
+        {
+          "id": "kang-ryeoun-014",
+          "sender": "owner",
+          "sentAt": "2026-09-09T17:05:00+09:00",
+          "text": "선생님 전시할 그림 다른 걸로 바꿔도 돼요"
+        },
+        {
+          "id": "kang-ryeoun-015",
+          "sender": "contact",
+          "sentAt": "2026-09-09T17:14:00+09:00",
+          "text": "가능합니다. 아직 출력 전입니다."
+        },
+        {
+          "id": "kang-ryeoun-016",
+          "sender": "owner",
+          "sentAt": "2026-09-09T17:17:00+09:00",
+          "text": "원래 거에 집이 그려져 있어서요"
+        },
+        {
+          "id": "kang-ryeoun-017",
+          "sender": "contact",
+          "sentAt": "2026-09-09T17:25:00+09:00",
+          "text": "이유까지 설명하지 않아도 됩니다. 다른 작품을 내세요."
+        },
+        {
+          "id": "kang-ryeoun-018",
+          "sender": "owner",
+          "sentAt": "2026-09-09T17:26:00+09:00",
+          "text": "감사합니다"
+        },
+        {
+          "id": "kang-ryeoun-019",
+          "sender": "contact",
+          "sentAt": "2026-09-09T17:31:00+09:00",
+          "text": "내일 미술실 문 옆 제출함에 넣어 두세요."
+        }
+      ]
+    },
+    {
+      "id": "kang-ryeoun__father",
+      "contactId": "father",
+      "contactName": "아빠",
+      "category": "가족",
+      "writingNote": "아버지와의 관계 및 부정 거래 사건을 둘러싼 구체적인 가족사와 감정은 아직 확정되지 않았으므로 본 대화는 창작 초안. 강려운의 의문을 보여주되 사건의 범행 방식이나 구체적 사실을 새로 설정하지 않음.",
+      "messages": [
+        {
+          "id": "father-001",
+          "sender": "contact",
+          "sentAt": "2026-02-22T18:05:00+09:00",
+          "text": "짐 다 챙겼니?"
+        },
+        {
+          "id": "father-002",
+          "sender": "owner",
+          "sentAt": "2026-02-22T18:11:00+09:00",
+          "text": "거의 다 했어"
+        },
+        {
+          "id": "father-003",
+          "sender": "contact",
+          "sentAt": "2026-02-22T18:13:00+09:00",
+          "text": "서류는 따로 넣어 놔. 잃어버리지 말고."
+        },
+        {
+          "id": "father-004",
+          "sender": "owner",
+          "sentAt": "2026-02-22T18:17:00+09:00",
+          "text": "응"
+        },
+        {
+          "id": "father-005",
+          "sender": "contact",
+          "sentAt": "2026-03-10T20:07:00+09:00",
+          "text": "학교는 좀 어떠니."
+        },
+        {
+          "id": "father-006",
+          "sender": "owner",
+          "sentAt": "2026-03-10T20:26:00+09:00",
+          "text": "괜찮아 아직 적응 중이야"
+        },
+        {
+          "id": "father-007",
+          "sender": "contact",
+          "sentAt": "2026-03-10T20:38:00+09:00",
+          "text": "천천히 해. 너무 신경 쓰지 말고."
+        },
+        {
+          "id": "father-008",
+          "sender": "owner",
+          "sentAt": "2026-04-27T21:02:00+09:00",
+          "text": "아빠 그때 사진들 어디 뒀어?"
+        },
+        {
+          "id": "father-009",
+          "sender": "contact",
+          "sentAt": "2026-04-27T21:20:00+09:00",
+          "text": "어떤 사진?"
+        },
+        {
+          "id": "father-010",
+          "sender": "owner",
+          "sentAt": "2026-04-27T21:24:00+09:00",
+          "text": "전에 살던 집에서 찍은 거"
+        },
+        {
+          "id": "father-011",
+          "sender": "contact",
+          "sentAt": "2026-04-27T22:06:00+09:00",
+          "text": "지금은 잘 모르겠다. 찾아볼게."
+        },
+        {
+          "id": "father-012",
+          "sender": "contact",
+          "sentAt": "2026-06-12T19:42:00+09:00",
+          "text": "학교에서 러시아 생활에 대해 물어보는 사람이 많니?"
+        },
+        {
+          "id": "father-013",
+          "sender": "owner",
+          "sentAt": "2026-06-12T20:03:00+09:00",
+          "text": "가끔"
+        },
+        {
+          "id": "father-014",
+          "sender": "contact",
+          "sentAt": "2026-06-12T20:06:00+09:00",
+          "text": "불편하면 대답하지 않아도 돼."
+        },
+        {
+          "id": "father-015",
+          "sender": "owner",
+          "sentAt": "2026-06-12T20:19:00+09:00",
+          "text": "아빠는 왜 그걸 물어봐"
+        },
+        {
+          "id": "father-016",
+          "sender": "contact",
+          "sentAt": "2026-06-12T20:32:00+09:00",
+          "text": "그냥 네가 학교에서 잘 지내는지 궁금해서."
+        },
+        {
+          "id": "father-017",
+          "sender": "owner",
+          "sentAt": "2026-09-02T22:14:00+09:00",
+          "text": "아빠 나 뉴스 봤어"
+        },
+        {
+          "id": "father-018",
+          "sender": "contact",
+          "sentAt": "2026-09-02T22:27:00+09:00",
+          "text": "너하고 상관없는 이야기야."
+        },
+        {
+          "id": "father-019",
+          "sender": "owner",
+          "sentAt": "2026-09-02T22:31:00+09:00",
+          "text": "그걸 어떻게 알아"
+        },
+        {
+          "id": "father-020",
+          "sender": "contact",
+          "sentAt": "2026-09-03T07:48:00+09:00",
+          "text": "학교 잘 다녀오렴."
+        },
+        {
+          "id": "father-021",
+          "sender": "owner",
+          "sentAt": "2026-09-05T18:20:00+09:00",
+          "text": "아빠"
+        },
+        {
+          "id": "father-022",
+          "sender": "owner",
+          "sentAt": "2026-09-05T18:33:00+09:00",
+          "text": "할 말 있는데"
+        },
+        {
+          "id": "father-023",
+          "sender": "owner",
+          "sentAt": "2026-09-27T20:41:00+09:00",
+          "text": "연락 가능하면 답장 좀 해 줘"
+        }
+      ]
+    },
+    {
+      "id": "kang-ryeoun__classmate",
+      "contactId": "classmate",
+      "contactName": "같은 반 친구",
+      "category": "친구·학교",
+      "writingNote": "이름이 확정되지 않은 해수여고 1학년 3반 친구. 저장명은 임시이며 친밀도 및 구체적인 과거사는 고정 설정 아님. 교내 일상과 소문으로 인한 어색함을 가볍고 현실적인 톤으로 배치.",
+      "messages": [
+        {
+          "id": "classmate-001",
+          "sender": "contact",
+          "sentAt": "2026-03-06T18:02:00+09:00",
+          "text": "야 너 내일도 창가쪽 앉는 거 맞지"
+        },
+        {
+          "id": "classmate-002",
+          "sender": "owner",
+          "sentAt": "2026-03-06T18:08:00+09:00",
+          "text": "응 아마"
+        },
+        {
+          "id": "classmate-003",
+          "sender": "contact",
+          "sentAt": "2026-03-06T18:08:00+09:00",
+          "text": "다행이다 내가 교탁 앞 되면 진짜 망함"
+        },
+        {
+          "id": "classmate-004",
+          "sender": "owner",
+          "sentAt": "2026-03-06T18:09:00+09:00",
+          "text": "왜 ㅋㅋ"
+        },
+        {
+          "id": "classmate-005",
+          "sender": "contact",
+          "sentAt": "2026-03-06T18:10:00+09:00",
+          "text": "졸 때 다 보여"
+        },
+        {
+          "id": "classmate-006",
+          "sender": "contact",
+          "sentAt": "2026-03-24T17:34:00+09:00",
+          "text": "오늘 국어 프린트 너한테 두 장 갔어?"
+        },
+        {
+          "id": "classmate-007",
+          "sender": "owner",
+          "sentAt": "2026-03-24T17:42:00+09:00",
+          "text": "어 두 장 있어"
+        },
+        {
+          "id": "classmate-008",
+          "sender": "contact",
+          "sentAt": "2026-03-24T17:43:00+09:00",
+          "text": "내 거다 ㅋㅋ 내일 줘"
+        },
+        {
+          "id": "classmate-009",
+          "sender": "owner",
+          "sentAt": "2026-03-24T17:44:00+09:00",
+          "text": "ㅇㅋ"
+        },
+        {
+          "id": "classmate-010",
+          "sender": "contact",
+          "sentAt": "2026-04-17T18:34:00+09:00",
+          "text": "스케치북 찾았다며"
+        },
+        {
+          "id": "classmate-011",
+          "sender": "owner",
+          "sentAt": "2026-04-17T18:39:00+09:00",
+          "text": "응 미술실에 있음..."
+        },
+        {
+          "id": "classmate-012",
+          "sender": "contact",
+          "sentAt": "2026-04-17T18:40:00+09:00",
+          "text": "너 오늘 가방 열고 한참 찾더라"
+        },
+        {
+          "id": "classmate-013",
+          "sender": "owner",
+          "sentAt": "2026-04-17T18:42:00+09:00",
+          "text": "그만 놀려"
+        },
+        {
+          "id": "classmate-014",
+          "sender": "contact",
+          "sentAt": "2026-04-17T18:43:00+09:00",
+          "text": "알았어 ㅋㅋ"
+        },
+        {
+          "id": "classmate-015",
+          "sender": "contact",
+          "sentAt": "2026-06-10T18:06:00+09:00",
+          "text": "오늘 걔네가 이상한 질문해서 미안"
+        },
+        {
+          "id": "classmate-016",
+          "sender": "owner",
+          "sentAt": "2026-06-10T18:11:00+09:00",
+          "text": "네가 한 거 아니잖아"
+        },
+        {
+          "id": "classmate-017",
+          "sender": "contact",
+          "sentAt": "2026-06-10T18:13:00+09:00",
+          "text": "그래도 옆에서 듣기 좀 그랬음"
+        },
+        {
+          "id": "classmate-018",
+          "sender": "owner",
+          "sentAt": "2026-06-10T18:21:00+09:00",
+          "text": "나도 좀 그랬어"
+        },
+        {
+          "id": "classmate-019",
+          "sender": "contact",
+          "sentAt": "2026-09-05T10:28:00+09:00",
+          "text": "월요일 수학 시간표 바뀐 거 봤어?"
+        },
+        {
+          "id": "classmate-020",
+          "sender": "owner",
+          "sentAt": "2026-09-05T10:36:00+09:00",
+          "text": "아니"
+        },
+        {
+          "id": "classmate-021",
+          "sender": "contact",
+          "sentAt": "2026-09-05T10:37:00+09:00",
+          "text": "1교시 아니고 3교시래"
+        },
+        {
+          "id": "classmate-022",
+          "sender": "owner",
+          "sentAt": "2026-09-05T10:38:00+09:00",
+          "text": "고마워"
+        },
+        {
+          "id": "classmate-023",
+          "sender": "contact",
+          "sentAt": "2026-09-12T19:02:00+09:00",
+          "text": "너 요즘 점심 같이 안 먹더라"
+        },
+        {
+          "id": "classmate-024",
+          "sender": "owner",
+          "sentAt": "2026-09-12T19:22:00+09:00",
+          "text": "그냥 조용히 먹고 싶어서"
+        },
+        {
+          "id": "classmate-025",
+          "sender": "contact",
+          "sentAt": "2026-09-12T19:26:00+09:00",
+          "text": "ㅇㅋ 필요하면 말해"
+        },
+        {
+          "id": "classmate-026",
+          "sender": "contact",
+          "sentAt": "2026-10-13T17:58:00+09:00",
+          "text": "내일 체육 준비물 체육복만 맞지?"
+        },
+        {
+          "id": "classmate-027",
+          "sender": "owner",
+          "sentAt": "2026-10-13T18:09:00+09:00",
+          "text": "응 그거만"
+        }
+      ]
+    },
+    {
+      "id": "kang-ryeoun__class-president",
+      "contactId": "class-president",
+      "contactName": "1학년 3반 반장",
+      "category": "반 친구·학급",
+      "writingNote": "실명과 개인적 관계가 확정되지 않은 학급 반장. 학급 업무와 단체사진·공지에 관한 문자만 넣음. 구체적인 교내 사건은 창작 초안.",
+      "messages": [
+        {
+          "id": "class-president-001",
+          "sender": "contact",
+          "sentAt": "2026-03-12T19:12:00+09:00",
+          "text": "려운아 반 단톡 공지 보이지?"
+        },
+        {
+          "id": "class-president-002",
+          "sender": "owner",
+          "sentAt": "2026-03-12T19:23:00+09:00",
+          "text": "응 보여"
+        },
+        {
+          "id": "class-president-003",
+          "sender": "contact",
+          "sentAt": "2026-03-12T19:24:00+09:00",
+          "text": "교실 자리표 수정돼서 다시 올렸어"
+        },
+        {
+          "id": "class-president-004",
+          "sender": "owner",
+          "sentAt": "2026-03-12T19:25:00+09:00",
+          "text": "알겠어 고마워"
+        },
+        {
+          "id": "class-president-005",
+          "sender": "contact",
+          "sentAt": "2026-05-14T16:26:00+09:00",
+          "text": "학급 게시판에 붙일 사진 제출할 수 있어?"
+        },
+        {
+          "id": "class-president-006",
+          "sender": "owner",
+          "sentAt": "2026-05-14T16:32:00+09:00",
+          "text": "꼭 얼굴 나온 사진이어야 해?"
+        },
+        {
+          "id": "class-president-007",
+          "sender": "contact",
+          "sentAt": "2026-05-14T16:33:00+09:00",
+          "text": "아니 배경 사진도 된대"
+        },
+        {
+          "id": "class-president-008",
+          "sender": "owner",
+          "sentAt": "2026-05-14T16:35:00+09:00",
+          "text": "그럼 그걸로 낼게"
+        },
+        {
+          "id": "class-president-009",
+          "sender": "contact",
+          "sentAt": "2026-08-31T17:00:00+09:00",
+          "text": "2학기 청소구역 바뀐 거 확인 부탁해"
+        },
+        {
+          "id": "class-president-010",
+          "sender": "owner",
+          "sentAt": "2026-08-31T17:11:00+09:00",
+          "text": "봤어"
+        },
+        {
+          "id": "class-president-011",
+          "sender": "contact",
+          "sentAt": "2026-08-31T17:12:00+09:00",
+          "text": "이번엔 복도야"
+        },
+        {
+          "id": "class-president-012",
+          "sender": "owner",
+          "sentAt": "2026-08-31T17:13:00+09:00",
+          "text": "오히려 좋아"
+        },
+        {
+          "id": "class-president-013",
+          "sender": "contact",
+          "sentAt": "2026-09-10T16:12:00+09:00",
+          "text": "전시 그림 제목 공지에 너만 빈칸이야"
+        },
+        {
+          "id": "class-president-014",
+          "sender": "owner",
+          "sentAt": "2026-09-10T16:25:00+09:00",
+          "text": "아직 정하는 중이야"
+        },
+        {
+          "id": "class-president-015",
+          "sender": "contact",
+          "sentAt": "2026-09-10T16:26:00+09:00",
+          "text": "내일까지만 알려줘"
+        },
+        {
+          "id": "class-president-016",
+          "sender": "owner",
+          "sentAt": "2026-09-10T16:29:00+09:00",
+          "text": "알겠어"
+        },
+        {
+          "id": "class-president-017",
+          "sender": "contact",
+          "sentAt": "2026-10-08T18:43:00+09:00",
+          "text": "반 단체사진 학교 홈페이지에 올려도 되는지 확인 중이야"
+        },
+        {
+          "id": "class-president-018",
+          "sender": "owner",
+          "sentAt": "2026-10-08T18:48:00+09:00",
+          "text": "나는 빼 줘도 돼?"
+        },
+        {
+          "id": "class-president-019",
+          "sender": "contact",
+          "sentAt": "2026-10-08T18:53:00+09:00",
+          "text": "응 선생님께 따로 말씀드릴게"
+        },
+        {
+          "id": "class-president-020",
+          "sender": "owner",
+          "sentAt": "2026-10-08T18:55:00+09:00",
+          "text": "고마워"
+        }
+      ]
+    },
+    {
+      "id": "kang-ryeoun__russian-school-friend",
+      "contactId": "russian-school-friend",
+      "contactName": "러시아 때 친구",
+      "category": "옛 학교 친구",
+      "writingNote": "모스크바 체류 당시 학교에서 알고 지낸 친구라는 새로운 관계 설정. 이름·국적·현지 학교·사건 당시의 구체적 피해는 확정하지 않음. 테러 사건은 배경으로만 암시하고 폭력 묘사는 없음.",
+      "messages": [
+        {
+          "id": "russian-school-friend-001",
+          "sender": "contact",
+          "sentAt": "2026-02-25T22:03:00+09:00",
+          "text": "한국 가기 전에 인사도 못 했네"
+        },
+        {
+          "id": "russian-school-friend-002",
+          "sender": "owner",
+          "sentAt": "2026-02-25T22:20:00+09:00",
+          "text": "나도 정신없어서 미안"
+        },
+        {
+          "id": "russian-school-friend-003",
+          "sender": "contact",
+          "sentAt": "2026-02-25T22:24:00+09:00",
+          "text": "도착하면 연락해"
+        },
+        {
+          "id": "russian-school-friend-004",
+          "sender": "owner",
+          "sentAt": "2026-02-25T22:31:00+09:00",
+          "text": "응 할게"
+        },
+        {
+          "id": "russian-school-friend-005",
+          "sender": "contact",
+          "sentAt": "2026-03-15T19:07:00+09:00",
+          "text": "새 학교는 어때?"
+        },
+        {
+          "id": "russian-school-friend-006",
+          "sender": "owner",
+          "sentAt": "2026-03-15T19:21:00+09:00",
+          "text": "아직 다 낯설어"
+        },
+        {
+          "id": "russian-school-friend-007",
+          "sender": "contact",
+          "sentAt": "2026-03-15T19:28:00+09:00",
+          "text": "너 원래 낯가리잖아"
+        },
+        {
+          "id": "russian-school-friend-008",
+          "sender": "owner",
+          "sentAt": "2026-03-15T19:30:00+09:00",
+          "text": "그 정도는 아닌데"
+        },
+        {
+          "id": "russian-school-friend-009",
+          "sender": "contact",
+          "sentAt": "2026-03-15T19:31:00+09:00",
+          "text": "거봐 ㅋㅋ"
+        },
+        {
+          "id": "russian-school-friend-010",
+          "sender": "contact",
+          "sentAt": "2026-06-14T23:09:00+09:00",
+          "text": "우리 동네 얘기 요즘도 뉴스에 나오더라"
+        },
+        {
+          "id": "russian-school-friend-011",
+          "sender": "owner",
+          "sentAt": "2026-06-14T23:17:00+09:00",
+          "text": "알아"
+        },
+        {
+          "id": "russian-school-friend-012",
+          "sender": "contact",
+          "sentAt": "2026-06-14T23:22:00+09:00",
+          "text": "그때 얘기는 굳이 안 해도 돼"
+        },
+        {
+          "id": "russian-school-friend-013",
+          "sender": "owner",
+          "sentAt": "2026-06-14T23:30:00+09:00",
+          "text": "고마워"
+        },
+        {
+          "id": "russian-school-friend-014",
+          "sender": "owner",
+          "sentAt": "2026-08-19T20:03:00+09:00",
+          "text": "우리 예전에 찍은 사진 혹시 아직 있어?"
+        },
+        {
+          "id": "russian-school-friend-015",
+          "sender": "contact",
+          "sentAt": "2026-08-19T20:11:00+09:00",
+          "text": "몇 장 있어. 단체사진도"
+        },
+        {
+          "id": "russian-school-friend-016",
+          "sender": "owner",
+          "sentAt": "2026-08-19T20:12:00+09:00",
+          "text": "단체사진 말고 그냥 거리 찍은 거"
+        },
+        {
+          "id": "russian-school-friend-017",
+          "sender": "contact",
+          "sentAt": "2026-08-19T20:20:00+09:00",
+          "text": "찾아볼게"
+        },
+        {
+          "id": "russian-school-friend-018",
+          "sender": "contact",
+          "sentAt": "2026-09-29T21:14:00+09:00",
+          "text": "나중에 여기 다시 올 거야?"
+        },
+        {
+          "id": "russian-school-friend-019",
+          "sender": "owner",
+          "sentAt": "2026-09-29T21:36:00+09:00",
+          "text": "아직 모르겠어"
+        },
+        {
+          "id": "russian-school-friend-020",
+          "sender": "contact",
+          "sentAt": "2026-09-29T21:42:00+09:00",
+          "text": "그럼 답은 나중에 듣지 뭐"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+import type {Photo} from '../types';
+
+// Source: ../source/all_character_photos.json; original records follow the supplied order.
+const photos: readonly Photo[] = [
+  {
+    "id": "kang-ryeoun-photo-001",
+    "src": "/photos/kang-ryeoun/01_window_at_dusk.jpeg",
+    "alt": "열린 창문 너머로 보이는 해 질 녘 아파트",
+    "order": 1
+  },
+  {
+    "id": "kang-ryeoun-photo-002",
+    "src": "/photos/kang-ryeoun/02_moscow_night_map.jpeg",
+    "alt": "모스크바가 표시된 유럽 야간 지도 화면",
+    "order": 2
+  },
+  {
+    "id": "kang-ryeoun-photo-003",
+    "src": "/photos/kang-ryeoun/03_snowy_courtyard.jpeg",
+    "alt": "눈 덮인 아파트 단지의 겨울 풍경",
+    "order": 3
+  }
+];
+
+export default photos;
