@@ -1,0 +1,21 @@
+/* Scoped to the existing Photos app: no dates, locations, editing, or uploads. */
+.photo-content{position:absolute;top:126px;bottom:24px;left:0;right:0;overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin}
+.photo-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:3px;padding:0 3px}
+.photo-tile{border:0;padding:0;aspect-ratio:1;background:#e6e8e5;overflow:hidden;display:grid;place-items:center}
+.photo-tile img{display:block;width:100%;height:100%;object-fit:contain;image-orientation:from-image;user-select:none}
+.photo-count{font-size:10px;color:#92998e;text-align:center;margin:19px 0}
+.photo-viewer{position:absolute;inset:0;background:#08090a;color:#f7f7f7;z-index:3;display:flex;flex-direction:column}
+.photo-viewer-bar{display:flex;align-items:center;justify-content:space-between;flex-shrink:0;min-height:78px;padding:43px 16px 8px;gap:12px}
+.photo-viewer-bar>span{font-size:10px;letter-spacing:1px;font-variant-numeric:tabular-nums;color:#c5c8cc}
+.photo-close{display:grid;place-items:center;width:28px;height:28px;background:none;border:0;padding:3px;color:#f7f7f7;border-radius:50%}
+.photo-swipe{position:relative;display:flex;align-items:center;justify-content:center;flex:1;min-height:0;width:100%;overflow:hidden;touch-action:pan-y;user-select:none;cursor:grab}
+.photo-swipe:active{cursor:grabbing}
+.photo-swipe img{display:block;width:100%;height:100%;object-fit:contain;image-orientation:from-image;user-select:none;-webkit-user-drag:none}
+.photo-load-error{position:absolute;bottom:10px;text-align:center;font-size:10px;color:#f2c2c2;padding:8px}
+.photo-viewer-navigation{display:flex;justify-content:center;align-items:center;gap:30px;flex-shrink:0;padding:12px 0 24px;min-height:68px}
+.photo-viewer-navigation button{display:grid;place-items:center;width:34px;height:32px;padding:0;border:0;border-radius:50%;background:#ffffff0d;color:#f7f7f7}
+.photo-viewer-navigation button:disabled{opacity:.23;cursor:default}
+.screen:has(.photo-content)>.status-bar{color:#292d29}
+.screen:has(.photo-viewer)>.status-bar{color:#fff}
+.screen:has(.photo-viewer)>.home-indicator{background:#fff}
+.photo-viewer button:focus-visible{outline:2px solid #b2c5db;outline-offset:2px}

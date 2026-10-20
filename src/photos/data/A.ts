@@ -1,0 +1,25 @@
+import type {Photo} from '../types';
+
+// Source: ../source/choi_doan_photos.json; original records and order are preserved.
+const photos: readonly Photo[] = [
+  {
+    "id": "choi-doan-photo-001",
+    "src": "/photos/choi-doan/01_night_street.jpeg",
+    "alt": "밤의 번화가 거리 풍경",
+    "order": 1
+  },
+  {
+    "id": "choi-doan-photo-002",
+    "src": "/photos/choi-doan/02_flags_hall.jpeg",
+    "alt": "여러 국기와 유엔 깃발이 걸린 실내 행사장",
+    "order": 2
+  },
+  {
+    "id": "choi-doan-photo-003",
+    "src": "/photos/choi-doan/03_old_phone_message.jpeg",
+    "alt": "오래된 휴대전화의 문자 메시지를 촬영한 사진",
+    "order": 3
+  }
+];
+
+export default photos;

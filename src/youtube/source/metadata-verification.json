@@ -1,0 +1,107 @@
+{
+  "method": "YouTube official oEmbed",
+  "endpoint": "https://www.youtube.com/oembed",
+  "mode": "offline-after-environment-proxy-denial",
+  "checkedAt": "2026-10-20T09:12:38.623Z",
+  "videos": [
+    {
+      "videoId": "AsEk3-YpOjA",
+      "metadata": "unverified",
+      "titleSource": "unavailable",
+      "channelSource": "unavailable",
+      "thumbnail": "remote-unverified",
+      "metadataError": "No official response obtained. Environment proxy rejected the official www.youtube.com/oembed endpoint with HTTP CONNECT 403; further network requests stopped.",
+      "thumbnailError": "Not downloaded or verified; original user-supplied YouTube thumbnail URL preserved."
+    },
+    {
+      "videoId": "3bLMMyLYgao",
+      "metadata": "unverified",
+      "titleSource": "unavailable",
+      "channelSource": "unavailable",
+      "thumbnail": "remote-unverified",
+      "metadataError": "No official response obtained. Environment proxy rejected the official www.youtube.com/oembed endpoint with HTTP CONNECT 403; further network requests stopped.",
+      "thumbnailError": "Not downloaded or verified; original user-supplied YouTube thumbnail URL preserved."
+    },
+    {
+      "videoId": "JEIcjRj7S9g",
+      "metadata": "unverified",
+      "titleSource": "unavailable",
+      "channelSource": "unavailable",
+      "thumbnail": "remote-unverified",
+      "metadataError": "No official response obtained. Environment proxy rejected the official www.youtube.com/oembed endpoint with HTTP CONNECT 403; further network requests stopped.",
+      "thumbnailError": "Not downloaded or verified; original user-supplied YouTube thumbnail URL preserved."
+    },
+    {
+      "videoId": "d0yGdNEWdn0",
+      "metadata": "unverified",
+      "titleSource": "user-provided-unverified",
+      "channelSource": "unavailable",
+      "thumbnail": "remote-unverified",
+      "metadataError": "No official response obtained. Environment proxy rejected the official www.youtube.com/oembed endpoint with HTTP CONNECT 403; further network requests stopped.",
+      "thumbnailError": "Not downloaded or verified; original user-supplied YouTube thumbnail URL preserved."
+    },
+    {
+      "videoId": "YEaSxhcns7Y",
+      "metadata": "unverified",
+      "titleSource": "user-provided-unverified",
+      "channelSource": "unavailable",
+      "thumbnail": "remote-unverified",
+      "metadataError": "No official response obtained. Environment proxy rejected the official www.youtube.com/oembed endpoint with HTTP CONNECT 403; further network requests stopped.",
+      "thumbnailError": "Not downloaded or verified; original user-supplied YouTube thumbnail URL preserved."
+    },
+    {
+      "videoId": "Oxf8ULSB8yU",
+      "metadata": "unverified",
+      "titleSource": "user-provided-unverified",
+      "channelSource": "unavailable",
+      "thumbnail": "remote-unverified",
+      "metadataError": "No official response obtained. Environment proxy rejected the official www.youtube.com/oembed endpoint with HTTP CONNECT 403; further network requests stopped.",
+      "thumbnailError": "Not downloaded or verified; original user-supplied YouTube thumbnail URL preserved."
+    },
+    {
+      "videoId": "0JmiC5nbuCM",
+      "metadata": "unverified",
+      "titleSource": "unavailable",
+      "channelSource": "unavailable",
+      "thumbnail": "remote-unverified",
+      "metadataError": "No official response obtained. Environment proxy rejected the official www.youtube.com/oembed endpoint with HTTP CONNECT 403; further network requests stopped.",
+      "thumbnailError": "Not downloaded or verified; original user-supplied YouTube thumbnail URL preserved."
+    },
+    {
+      "videoId": "97_VJve7UVc",
+      "metadata": "unverified",
+      "titleSource": "user-provided-unverified",
+      "channelSource": "unavailable",
+      "thumbnail": "remote-unverified",
+      "metadataError": "No official response obtained. Environment proxy rejected the official www.youtube.com/oembed endpoint with HTTP CONNECT 403; further network requests stopped.",
+      "thumbnailError": "Not downloaded or verified; original user-supplied YouTube thumbnail URL preserved."
+    },
+    {
+      "videoId": "ZlnabTp05h8",
+      "metadata": "unverified",
+      "titleSource": "unavailable",
+      "channelSource": "unavailable",
+      "thumbnail": "remote-unverified",
+      "metadataError": "No official response obtained. Environment proxy rejected the official www.youtube.com/oembed endpoint with HTTP CONNECT 403; further network requests stopped.",
+      "thumbnailError": "Not downloaded or verified; original user-supplied YouTube thumbnail URL preserved."
+    },
+    {
+      "videoId": "0JMdXFHo5SY",
+      "metadata": "unverified",
+      "titleSource": "unavailable",
+      "channelSource": "unavailable",
+      "thumbnail": "remote-unverified",
+      "metadataError": "No official response obtained. Environment proxy rejected the official www.youtube.com/oembed endpoint with HTTP CONNECT 403; further network requests stopped.",
+      "thumbnailError": "Not downloaded or verified; original user-supplied YouTube thumbnail URL preserved."
+    },
+    {
+      "videoId": "EI5fQm0xpVM",
+      "metadata": "unverified",
+      "titleSource": "unavailable",
+      "channelSource": "unavailable",
+      "thumbnail": "remote-unverified",
+      "metadataError": "No official response obtained. Environment proxy rejected the official www.youtube.com/oembed endpoint with HTTP CONNECT 403; further network requests stopped.",
+      "thumbnailError": "Not downloaded or verified; original user-supplied YouTube thumbnail URL preserved."
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "description": "가상 인물 4명의 YouTube 시청기록용 고정 데이터. 링크는 사용자가 직접 선택했으며 영상 메타데이터 일부는 미확인.",
+  "characters": {
+    "choi-doan": {
+      "displayName": "최도안",
+      "videos": [
+        {
+          "id": "choi-doan-yt-01",
+          "order": 1,
+          "videoId": "AsEk3-YpOjA",
+          "originalUrl": "https://youtu.be/AsEk3-YpOjA?si=Nxxm0Fi4taAHR-jc",
+          "watchUrl": "https://www.youtube.com/watch?v=AsEk3-YpOjA",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/AsEk3-YpOjA?playsinline=1&controls=1",
+          "thumbnailUrl": "https://i.ytimg.com/vi/AsEk3-YpOjA/hqdefault.jpg",
+          "title": null,
+          "channel": null,
+          "durationSeconds": null,
+          "viewedAt": null
+        },
+        {
+          "id": "choi-doan-yt-02",
+          "order": 2,
+          "videoId": "3bLMMyLYgao",
+          "originalUrl": "https://youtu.be/3bLMMyLYgao?si=jC9SvxttGQOzjRgn",
+          "watchUrl": "https://www.youtube.com/watch?v=3bLMMyLYgao",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/3bLMMyLYgao?playsinline=1&controls=1",
+          "thumbnailUrl": "https://i.ytimg.com/vi/3bLMMyLYgao/hqdefault.jpg",
+          "title": null,
+          "channel": null,
+          "durationSeconds": null,
+          "viewedAt": null
+        },
+        {
+          "id": "choi-doan-yt-03",
+          "order": 3,
+          "videoId": "JEIcjRj7S9g",
+          "originalUrl": "https://youtu.be/JEIcjRj7S9g?si=0_IhcGsBrJt_cktM",
+          "watchUrl": "https://www.youtube.com/watch?v=JEIcjRj7S9g",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/JEIcjRj7S9g?playsinline=1&controls=1",
+          "thumbnailUrl": "https://i.ytimg.com/vi/JEIcjRj7S9g/hqdefault.jpg",
+          "title": null,
+          "channel": null,
+          "durationSeconds": null,
+          "viewedAt": null
+        }
+      ]
+    },
+    "lim-hyeongwoo": {
+      "displayName": "임형우",
+      "videos": [
+        {
+          "id": "lim-hyeongwoo-yt-01",
+          "order": 1,
+          "videoId": "d0yGdNEWdn0",
+          "originalUrl": "https://youtu.be/d0yGdNEWdn0?si=dZPMlUBsq8vqe9tx",
+          "watchUrl": "https://www.youtube.com/watch?v=d0yGdNEWdn0",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/d0yGdNEWdn0?playsinline=1&controls=1",
+          "thumbnailUrl": "https://i.ytimg.com/vi/d0yGdNEWdn0/hqdefault.jpg",
+          "title": "How to learn any language in six months | Chris Lonsdale | TEDxLingnanUniversity",
+          "channel": null,
+          "durationSeconds": null,
+          "viewedAt": null
+        },
+        {
+          "id": "lim-hyeongwoo-yt-02",
+          "order": 2,
+          "videoId": "YEaSxhcns7Y",
+          "originalUrl": "https://youtu.be/YEaSxhcns7Y?si=c2kP2OY9YpoHDn61",
+          "watchUrl": "https://www.youtube.com/watch?v=YEaSxhcns7Y",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/YEaSxhcns7Y?playsinline=1&controls=1",
+          "thumbnailUrl": "https://i.ytimg.com/vi/YEaSxhcns7Y/hqdefault.jpg",
+          "title": "Where did English come from? - Claire Bowern",
+          "channel": null,
+          "durationSeconds": null,
+          "viewedAt": null
+        },
+        {
+          "id": "lim-hyeongwoo-yt-03",
+          "order": 3,
+          "videoId": "Oxf8ULSB8yU",
+          "originalUrl": "https://youtu.be/Oxf8ULSB8yU?si=n2Tz2MshBW3xTp99",
+          "watchUrl": "https://www.youtube.com/watch?v=Oxf8ULSB8yU",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/Oxf8ULSB8yU?playsinline=1&controls=1",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Oxf8ULSB8yU/hqdefault.jpg",
+          "title": "SZA - Nobody Gets Me (Lyric Video)",
+          "channel": null,
+          "durationSeconds": null,
+          "viewedAt": null
+        }
+      ]
+    },
+    "yoon-yeondo": {
+      "displayName": "윤연도",
+      "videos": [
+        {
+          "id": "yoon-yeondo-yt-01",
+          "order": 1,
+          "videoId": "0JmiC5nbuCM",
+          "originalUrl": "https://youtu.be/0JmiC5nbuCM?si=NpXktsiZ-rwRJ9zc",
+          "watchUrl": "https://www.youtube.com/watch?v=0JmiC5nbuCM",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/0JmiC5nbuCM?playsinline=1&controls=1",
+          "thumbnailUrl": "https://i.ytimg.com/vi/0JmiC5nbuCM/hqdefault.jpg",
+          "title": null,
+          "channel": null,
+          "durationSeconds": null,
+          "viewedAt": null
+        },
+        {
+          "id": "yoon-yeondo-yt-02",
+          "order": 2,
+          "videoId": "97_VJve7UVc",
+          "originalUrl": "https://youtu.be/97_VJve7UVc?si=RkqIjkpKHDkzEjXZ",
+          "watchUrl": "https://www.youtube.com/watch?v=97_VJve7UVc",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/97_VJve7UVc?playsinline=1&controls=1",
+          "thumbnailUrl": "https://i.ytimg.com/vi/97_VJve7UVc/hqdefault.jpg",
+          "title": "[조성진 Seong-Jin Cho] Debussy Clair de lune 드뷔시 달빛",
+          "channel": null,
+          "durationSeconds": null,
+          "viewedAt": null
+        }
+      ]
+    },
+    "kang-ryeoun": {
+      "displayName": "강려운",
+      "videos": [
+        {
+          "id": "kang-ryeoun-yt-01",
+          "order": 1,
+          "videoId": "ZlnabTp05h8",
+          "originalUrl": "https://youtu.be/ZlnabTp05h8?si=2ypBDvt6fWlxutsw",
+          "watchUrl": "https://www.youtube.com/watch?v=ZlnabTp05h8",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/ZlnabTp05h8?playsinline=1&controls=1",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ZlnabTp05h8/hqdefault.jpg",
+          "title": null,
+          "channel": null,
+          "durationSeconds": null,
+          "viewedAt": null
+        },
+        {
+          "id": "kang-ryeoun-yt-02",
+          "order": 2,
+          "videoId": "0JMdXFHo5SY",
+          "originalUrl": "https://youtu.be/0JMdXFHo5SY?si=-NGOmGdjxjL84J3O",
+          "watchUrl": "https://www.youtube.com/watch?v=0JMdXFHo5SY",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/0JMdXFHo5SY?playsinline=1&controls=1",
+          "thumbnailUrl": "https://i.ytimg.com/vi/0JMdXFHo5SY/hqdefault.jpg",
+          "title": null,
+          "channel": null,
+          "durationSeconds": null,
+          "viewedAt": null
+        },
+        {
+          "id": "kang-ryeoun-yt-03",
+          "order": 3,
+          "videoId": "EI5fQm0xpVM",
+          "originalUrl": "https://youtu.be/EI5fQm0xpVM?si=bwnZI92hJfBov3Lg",
+          "watchUrl": "https://www.youtube.com/watch?v=EI5fQm0xpVM",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/EI5fQm0xpVM?playsinline=1&controls=1",
+          "thumbnailUrl": "https://i.ytimg.com/vi/EI5fQm0xpVM/hqdefault.jpg",
+          "title": null,
+          "channel": null,
+          "durationSeconds": null,
+          "viewedAt": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+/* Contained settings app: no global device, lock screen, home, or other app rules. */
+.app-screen.settings-shell{background:#efeff5;padding:47px 0 23px;color:#19191c}
+.settings-shell>.app-back{margin-left:16px;font-size:11px;color:#3281ec}
+.screen.settings-visible>.status-bar{color:#19191c}
+.screen.settings-visible>.concept-notice{color:#777}
+.settings-app{position:absolute;top:74px;bottom:24px;left:0;right:0;display:flex;flex-direction:column;min-height:0}
+.settings-scroll{padding:0 13px 22px;overflow-y:auto;overscroll-behavior:contain;scrollbar-width:none;min-height:0;flex:1}
+.settings-scroll::-webkit-scrollbar{display:none}
+.settings-shell .settings-main-title{font-size:25px;letter-spacing:-1px;line-height:1.25;font-weight:700;margin:8px 2px 12px}
+.settings-shell .settings-page-title{font-size:19px;line-height:1.4;letter-spacing:-.7px;margin:13px 2px 17px;font-weight:600}
+.settings-search{display:flex;gap:6px;align-items:center;border-radius:8px;background:#e1e1e8;color:#8b8b92;padding:7px 9px;margin-bottom:18px}
+.settings-search input{min-width:0;width:100%;border:0;outline:0;background:transparent;color:#333;font:inherit;font-size:11px;padding:0}
+.settings-search input::placeholder{color:#8b8b92}
+.settings-search:focus-within{box-shadow:0 0 0 2px #9bc6f6}
+.settings-search button{padding:0;display:flex;border:0;background:none;color:#8b8b92}
+.settings-group{background:#fff;border-radius:14px;margin:0 0 17px;overflow:hidden}
+.settings-account{display:flex;align-items:center;gap:9px;width:100%;padding:13px 10px;background:none;border:0;text-align:left}
+.settings-avatar{width:40px;height:40px;flex-shrink:0;border-radius:50%;display:grid;place-items:center;background:linear-gradient(150deg,#d6e4ed,#b9cddc);color:#fff}
+.settings-account-copy{display:flex;flex:1;min-width:0;flex-direction:column;gap:4px}
+.settings-account-copy strong{font-size:15px;line-height:1.3;font-weight:500;letter-spacing:-.5px}
+.settings-account-copy small{font-size:8px;line-height:1.4;color:#82828b;overflow-wrap:anywhere}
+.settings-account>svg,.settings-row-end>svg,.settings-suggestion>svg,.settings-detail-value>svg{color:#b7b7bd;flex-shrink:0}
+.settings-suggestion{display:flex;align-items:center;gap:8px;background:none;border:0;border-top:1px solid #eeeef1;margin-left:11px;width:calc(100% - 11px);padding:10px 11px 10px 0;text-align:left;font-size:10px}
+.settings-suggestion>span:first-child{flex:1}
+.settings-badge{display:grid;place-items:center;flex-shrink:0;width:16px;height:16px;border-radius:50%;background:#ef354d;color:#fff;font-size:9px;line-height:1}
+.settings-row{display:flex;align-items:center;gap:8px;background:none;border:0;width:100%;padding:9px 10px;text-align:left;position:relative;min-height:40px}
+.settings-row+.settings-row:before{content:'';position:absolute;left:40px;right:0;top:0;height:.5px;background:#e8e8ed}
+.settings-menu-icon{width:22px;height:22px;border-radius:5px;display:grid;place-items:center;color:#fff;flex-shrink:0}
+.settings-row-copy{display:flex;flex:1;min-width:0;flex-direction:column;gap:4px;font-size:10px;line-height:1.5}
+.settings-row-copy>small{font-size:8px;color:#919198;line-height:1.5}
+.settings-row-end{display:flex;gap:4px;align-items:center;max-width:48%;min-width:0;justify-content:flex-end}
+.settings-row-value{font-size:9px;color:#929298;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;min-width:0}
+.settings-switch{display:flex;align-items:center;padding:2px;flex-shrink:0;width:30px;height:18px;border-radius:12px;background:#d2d2d8}
+.settings-switch i{display:block;width:14px;height:14px;border-radius:50%;background:white;box-shadow:0 1px 2px #0002}
+.settings-switch.on{background:#39c66a;justify-content:flex-end}
+.settings-back{display:flex;align-items:center;gap:4px;font-size:11px;border:0;padding:1px 15px 4px;background:transparent;color:#3281ec;align-self:flex-start}
+.settings-detail-row{width:100%;min-height:40px;padding:11px 12px;display:flex;align-items:center;gap:10px;justify-content:space-between;background:none;border:0;text-align:left;font-size:10px;line-height:1.5}
+.settings-detail-row+.settings-detail-row{border-top:1px solid #eeeef1}
+.settings-detail-row>span:first-child{flex-shrink:0;max-width:55%}
+.settings-detail-value{display:flex;align-items:center;gap:5px;justify-content:flex-end;font-size:9px;color:#8b8b94;text-align:right;overflow-wrap:anywhere;min-width:0}
+.settings-readonly{margin:15px 9px;color:#93939b;font-size:8px;line-height:1.8}
+.settings-empty{text-align:center;color:#92929b;font-size:11px;margin:50px 0}
+.settings-brightness{display:flex;align-items:center;gap:9px;background:#fff;padding:17px 14px;border-radius:13px;color:#9ca0aa}
+.settings-brightness>span{height:5px;flex:1;border-radius:8px;background:#e6e8ed;overflow:hidden}
+.settings-brightness i{display:block;height:100%;background:#448bea;border-radius:8px}
+.settings-wallpaper-preview{width:94px;height:192px;margin:12px auto 22px;border:4px solid #25282d;border-radius:17px;background-position:center;background-size:cover;box-shadow:0 7px 14px #0001}
+.wallpaper-preview-a{background-image:url('/wallpapers/a.svg')}.wallpaper-preview-b{background-image:url('/wallpapers/b.svg')}.wallpaper-preview-c{background-image:url('/wallpapers/c.svg')}.wallpaper-preview-d{background-image:url('/wallpapers/d.svg')}
+.settings-row:hover,.settings-account:hover,.settings-suggestion:hover,.settings-detail-row:is(button):hover{background:#f8f8fb}
+.settings-app button:focus-visible{outline:2px solid #5c9eea;outline-offset:-3px}
+/* Samsung uses a generous heading, larger grouped rows, colored glyphs, and a Samsung account card. */
+.settings-oneui .settings-scroll{padding-inline:12px}
+.settings-shell .settings-oneui .settings-main-title{font-size:30px;line-height:1.4;font-weight:500;margin:32px 8px 18px;letter-spacing:-1.2px}
+.settings-oneui .settings-search{background:#e4e5e9;border-radius:20px;margin-bottom:12px}
+.settings-oneui .settings-group{border-radius:17px;margin-bottom:12px}
+.settings-oneui .settings-account{padding:15px 12px;flex-direction:row-reverse;gap:8px}
+.settings-oneui .settings-account>svg{display:none}
+.settings-oneui .settings-avatar{width:37px;height:37px;background:linear-gradient(145deg,#a4baf2,#5f81ce)}
+.settings-oneui .settings-account-copy strong{font-size:17px;line-height:1.4;font-weight:600}
+.settings-oneui .settings-account-copy small{font-size:8px}
+.settings-oneui .settings-row{padding:13px 12px;min-height:56px;gap:11px}
+.settings-oneui .settings-menu-icon{width:20px;height:24px;border-radius:6px;background:transparent!important;position:relative}
+.settings-oneui .settings-menu-icon:before{content:'';position:absolute;inset:0;background:currentColor;opacity:.08;border-radius:6px}
+.settings-oneui .settings-menu-icon svg{color:inherit}
+.settings-oneui .settings-row-copy{font-size:11px;line-height:1.4}
+.settings-oneui .settings-row-end>svg{display:none}
+.settings-oneui .settings-switch.on{background:#6985d2}
+.settings-oneui .settings-back{color:#2a2a2d}
+.settings-oneui .settings-detail-row{min-height:48px}
+.settings-oneui .settings-page-title{font-size:22px;font-weight:500}
+.app-icon.settings{background:linear-gradient(150deg,#d1d4d9,#9fa4ad);color:#444a55}
+.galaxy .app-icon.settings{background:linear-gradient(145deg,#8f9daa,#5b6b79)}

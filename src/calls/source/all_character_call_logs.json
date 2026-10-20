@@ -1,0 +1,1048 @@
+{
+  "schemaVersion": 1,
+  "fictional": true,
+  "readOnly": true,
+  "description": "가상 인물 네 명의 전화 앱 기본 통화 기록. 실제 전화번호/음성 내용 없음. 기존 문자 기록의 연락처와 인물 관계를 참고한 새 창작 초안. 서로 전화한 기록은 양쪽 화면에 동일 날짜와 통화 시간으로 동기화.",
+  "directionLegend": {
+    "incoming": "수신",
+    "outgoing": "발신",
+    "missed": "부재중"
+  },
+  "statusLegend": {
+    "completed": "통화 완료",
+    "missed": "부재중",
+    "unanswered": "응답 없음"
+  },
+  "characters": {
+    "choi-doan": {
+      "displayName": "최도안",
+      "note": "해수여고 1학년 3반 담임의 일상적인 학교 통화와 외교부 본부·모스크바 공관 측 연락이 섞여 있는 창작 기록. 구체적인 통화 내용이나 임무 수행 수법은 포함하지 않음.",
+      "calls": [
+        {
+          "id": "choi-doan-call-029",
+          "contactId": null,
+          "contactName": "모스크바 공관 동료",
+          "timestamp": "2026-10-17T09:41:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 58
+        },
+        {
+          "id": "choi-doan-call-028",
+          "contactId": null,
+          "contactName": "본부 연락 담당",
+          "timestamp": "2026-10-16T18:02:00+09:00",
+          "direction": "missed",
+          "status": "missed",
+          "durationSeconds": 0
+        },
+        {
+          "id": "choi-doan-call-007",
+          "contactId": "yoon-yeondo",
+          "contactName": "윤연도",
+          "timestamp": "2026-09-16T17:25:00+09:00",
+          "direction": "missed",
+          "status": "missed",
+          "durationSeconds": 0,
+          "sharedCallId": "shared-choi-doan-yoon-yeondo-202609161725"
+        },
+        {
+          "id": "choi-doan-call-004",
+          "contactId": "lim-hyeongwoo",
+          "contactName": "임형우",
+          "timestamp": "2026-09-16T14:44:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 80,
+          "sharedCallId": "shared-choi-doan-lim-hyeongwoo-202609161444"
+        },
+        {
+          "id": "choi-doan-call-027",
+          "contactId": null,
+          "contactName": "해수여고 교무부",
+          "timestamp": "2026-09-11T13:32:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 75
+        },
+        {
+          "id": "choi-doan-call-026",
+          "contactId": null,
+          "contactName": "본부 연락 담당",
+          "timestamp": "2026-09-06T10:44:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 186
+        },
+        {
+          "id": "choi-doan-call-011",
+          "contactId": "kang-ryeoun",
+          "contactName": "강려운",
+          "timestamp": "2026-09-04T16:12:00+09:00",
+          "direction": "missed",
+          "status": "missed",
+          "durationSeconds": 0,
+          "sharedCallId": "shared-choi-doan-kang-ryeoun-202609041612"
+        },
+        {
+          "id": "choi-doan-call-025",
+          "contactId": null,
+          "contactName": "모스크바 공관 동료",
+          "timestamp": "2026-09-03T21:10:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 423
+        },
+        {
+          "id": "choi-doan-call-024",
+          "contactId": null,
+          "contactName": "해수여고 교무부",
+          "timestamp": "2026-08-25T16:16:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 91
+        },
+        {
+          "id": "choi-doan-call-023",
+          "contactId": null,
+          "contactName": "본부 연락 담당",
+          "timestamp": "2026-08-11T08:48:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 207
+        },
+        {
+          "id": "choi-doan-call-022",
+          "contactId": null,
+          "contactName": "모스크바 공관 동료",
+          "timestamp": "2026-07-19T15:18:00+09:00",
+          "direction": "missed",
+          "status": "missed",
+          "durationSeconds": 0
+        },
+        {
+          "id": "choi-doan-call-021",
+          "contactId": null,
+          "contactName": "본부 연락 담당",
+          "timestamp": "2026-07-03T17:06:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 110
+        },
+        {
+          "id": "choi-doan-call-020",
+          "contactId": null,
+          "contactName": "모스크바 공관 동료",
+          "timestamp": "2026-06-13T20:21:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 226
+        },
+        {
+          "id": "choi-doan-call-019",
+          "contactId": null,
+          "contactName": "본부 연락 담당",
+          "timestamp": "2026-06-12T18:48:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 312
+        },
+        {
+          "id": "choi-doan-call-010",
+          "contactId": "kang-ryeoun",
+          "contactName": "강려운",
+          "timestamp": "2026-06-11T15:50:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 198,
+          "sharedCallId": "shared-choi-doan-kang-ryeoun-202606111550"
+        },
+        {
+          "id": "choi-doan-call-003",
+          "contactId": "lim-hyeongwoo",
+          "contactName": "임형우",
+          "timestamp": "2026-06-04T17:10:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 153,
+          "sharedCallId": "shared-choi-doan-lim-hyeongwoo-202606041710"
+        },
+        {
+          "id": "choi-doan-call-018",
+          "contactId": null,
+          "contactName": "본부 연락 담당",
+          "timestamp": "2026-05-18T12:03:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 220
+        },
+        {
+          "id": "choi-doan-call-006",
+          "contactId": "yoon-yeondo",
+          "contactName": "윤연도",
+          "timestamp": "2026-05-08T16:40:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 56,
+          "sharedCallId": "shared-choi-doan-yoon-yeondo-202605081640"
+        },
+        {
+          "id": "choi-doan-call-002",
+          "contactId": "lim-hyeongwoo",
+          "contactName": "임형우",
+          "timestamp": "2026-04-23T16:05:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 102,
+          "sharedCallId": "shared-choi-doan-lim-hyeongwoo-202604231605"
+        },
+        {
+          "id": "choi-doan-call-017",
+          "contactId": null,
+          "contactName": "해수여고 교무부",
+          "timestamp": "2026-04-17T16:52:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 78
+        },
+        {
+          "id": "choi-doan-call-016",
+          "contactId": null,
+          "contactName": "본부 연락 담당",
+          "timestamp": "2026-04-11T13:27:00+09:00",
+          "direction": "missed",
+          "status": "missed",
+          "durationSeconds": 0
+        },
+        {
+          "id": "choi-doan-call-009",
+          "contactId": "kang-ryeoun",
+          "contactName": "강려운",
+          "timestamp": "2026-04-09T16:10:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 85,
+          "sharedCallId": "shared-choi-doan-kang-ryeoun-202604091610"
+        },
+        {
+          "id": "choi-doan-call-015",
+          "contactId": null,
+          "contactName": "모스크바 공관 동료",
+          "timestamp": "2026-03-21T18:12:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 385
+        },
+        {
+          "id": "choi-doan-call-008",
+          "contactId": "kang-ryeoun",
+          "contactName": "강려운",
+          "timestamp": "2026-03-18T16:41:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 132,
+          "sharedCallId": "shared-choi-doan-kang-ryeoun-202603181641"
+        },
+        {
+          "id": "choi-doan-call-005",
+          "contactId": "yoon-yeondo",
+          "contactName": "윤연도",
+          "timestamp": "2026-03-11T14:33:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 108,
+          "sharedCallId": "shared-choi-doan-yoon-yeondo-202603111433"
+        },
+        {
+          "id": "choi-doan-call-001",
+          "contactId": "lim-hyeongwoo",
+          "contactName": "임형우",
+          "timestamp": "2026-03-06T08:05:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 143,
+          "sharedCallId": "shared-choi-doan-lim-hyeongwoo-202603060805"
+        },
+        {
+          "id": "choi-doan-call-014",
+          "contactId": null,
+          "contactName": "해수여고 교무부",
+          "timestamp": "2026-03-03T09:08:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 68
+        },
+        {
+          "id": "choi-doan-call-013",
+          "contactId": null,
+          "contactName": "본부 연락 담당",
+          "timestamp": "2026-02-24T11:18:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 372
+        },
+        {
+          "id": "choi-doan-call-012",
+          "contactId": null,
+          "contactName": "모스크바 공관 동료",
+          "timestamp": "2026-02-19T20:14:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 266
+        }
+      ]
+    },
+    "lim-hyeongwoo": {
+      "displayName": "임형우",
+      "note": "해수여고 영어교사이자 전산/시간표 업무를 자주 담당하는 동료 교사, 가족, 대학 동기 등의 연락을 중심으로 한 창작 기록.",
+      "calls": [
+        {
+          "id": "lim-hyeongwoo-call-026",
+          "contactId": null,
+          "contactName": "대학 동기",
+          "timestamp": "2026-10-18T16:12:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 399
+        },
+        {
+          "id": "lim-hyeongwoo-call-025",
+          "contactId": null,
+          "contactName": "집",
+          "timestamp": "2026-10-12T18:58:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 136
+        },
+        {
+          "id": "lim-hyeongwoo-call-006",
+          "contactId": "yoon-yeondo",
+          "contactName": "윤연도",
+          "timestamp": "2026-09-22T14:02:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 123,
+          "sharedCallId": "shared-lim-hyeongwoo-yoon-yeondo-202609221402"
+        },
+        {
+          "id": "lim-hyeongwoo-call-024",
+          "contactId": null,
+          "contactName": "해수여고 교무부",
+          "timestamp": "2026-09-19T12:20:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 89
+        },
+        {
+          "id": "lim-hyeongwoo-call-023",
+          "contactId": null,
+          "contactName": "집",
+          "timestamp": "2026-09-17T18:14:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 53
+        },
+        {
+          "id": "lim-hyeongwoo-call-022",
+          "contactId": null,
+          "contactName": "집",
+          "timestamp": "2026-09-17T15:41:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 30
+        },
+        {
+          "id": "lim-hyeongwoo-call-004",
+          "contactId": "choi-doan",
+          "contactName": "최도안",
+          "timestamp": "2026-09-16T14:44:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 80,
+          "sharedCallId": "shared-choi-doan-lim-hyeongwoo-202609161444"
+        },
+        {
+          "id": "lim-hyeongwoo-call-008",
+          "contactId": "kang-ryeoun",
+          "contactName": "강려운",
+          "timestamp": "2026-09-07T15:30:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 180,
+          "sharedCallId": "shared-lim-hyeongwoo-kang-ryeoun-202609071530"
+        },
+        {
+          "id": "lim-hyeongwoo-call-021",
+          "contactId": null,
+          "contactName": "영어과 동료",
+          "timestamp": "2026-08-27T15:56:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 180
+        },
+        {
+          "id": "lim-hyeongwoo-call-020",
+          "contactId": null,
+          "contactName": "대학 동기",
+          "timestamp": "2026-08-21T18:41:00+09:00",
+          "direction": "missed",
+          "status": "missed",
+          "durationSeconds": 0
+        },
+        {
+          "id": "lim-hyeongwoo-call-019",
+          "contactId": null,
+          "contactName": "집",
+          "timestamp": "2026-07-10T17:05:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 42
+        },
+        {
+          "id": "lim-hyeongwoo-call-018",
+          "contactId": null,
+          "contactName": "해수여고 교무부",
+          "timestamp": "2026-06-23T12:15:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 191
+        },
+        {
+          "id": "lim-hyeongwoo-call-017",
+          "contactId": null,
+          "contactName": "대학 동기",
+          "timestamp": "2026-06-09T20:26:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 509
+        },
+        {
+          "id": "lim-hyeongwoo-call-003",
+          "contactId": "choi-doan",
+          "contactName": "최도안",
+          "timestamp": "2026-06-04T17:10:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 153,
+          "sharedCallId": "shared-choi-doan-lim-hyeongwoo-202606041710"
+        },
+        {
+          "id": "lim-hyeongwoo-call-005",
+          "contactId": "yoon-yeondo",
+          "contactName": "윤연도",
+          "timestamp": "2026-05-21T15:48:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 43,
+          "sharedCallId": "shared-lim-hyeongwoo-yoon-yeondo-202605211548"
+        },
+        {
+          "id": "lim-hyeongwoo-call-016",
+          "contactId": null,
+          "contactName": "집",
+          "timestamp": "2026-05-16T11:30:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 102
+        },
+        {
+          "id": "lim-hyeongwoo-call-007",
+          "contactId": "kang-ryeoun",
+          "contactName": "강려운",
+          "timestamp": "2026-05-14T16:10:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 73,
+          "sharedCallId": "shared-lim-hyeongwoo-kang-ryeoun-202605141610"
+        },
+        {
+          "id": "lim-hyeongwoo-call-015",
+          "contactId": null,
+          "contactName": "영어과 동료",
+          "timestamp": "2026-04-28T16:51:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 162
+        },
+        {
+          "id": "lim-hyeongwoo-call-002",
+          "contactId": "choi-doan",
+          "contactName": "최도안",
+          "timestamp": "2026-04-23T16:05:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 102,
+          "sharedCallId": "shared-choi-doan-lim-hyeongwoo-202604231605"
+        },
+        {
+          "id": "lim-hyeongwoo-call-014",
+          "contactId": null,
+          "contactName": "해수여고 교무부",
+          "timestamp": "2026-04-03T10:07:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 219
+        },
+        {
+          "id": "lim-hyeongwoo-call-013",
+          "contactId": null,
+          "contactName": "집",
+          "timestamp": "2026-03-25T18:01:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 84
+        },
+        {
+          "id": "lim-hyeongwoo-call-012",
+          "contactId": null,
+          "contactName": "집",
+          "timestamp": "2026-03-07T17:34:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 121
+        },
+        {
+          "id": "lim-hyeongwoo-call-001",
+          "contactId": "choi-doan",
+          "contactName": "최도안",
+          "timestamp": "2026-03-06T08:05:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 143,
+          "sharedCallId": "shared-choi-doan-lim-hyeongwoo-202603060805"
+        },
+        {
+          "id": "lim-hyeongwoo-call-011",
+          "contactId": null,
+          "contactName": "해수여고 교무부",
+          "timestamp": "2026-03-05T08:43:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 74
+        },
+        {
+          "id": "lim-hyeongwoo-call-010",
+          "contactId": null,
+          "contactName": "영어과 동료",
+          "timestamp": "2026-03-04T15:19:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 149
+        },
+        {
+          "id": "lim-hyeongwoo-call-009",
+          "contactId": null,
+          "contactName": "대학 동기",
+          "timestamp": "2026-02-26T19:07:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 474
+        }
+      ]
+    },
+    "yoon-yeondo": {
+      "displayName": "윤연도",
+      "note": "해수여고 미술교사로서 미술실, 재료 구입, 전시 자료, 동료, 과거 지인 등과의 연락을 중심으로 한 창작 기록.",
+      "calls": [
+        {
+          "id": "yoon-yeondo-call-024",
+          "contactId": null,
+          "contactName": "전시자료실",
+          "timestamp": "2026-10-18T11:39:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 94
+        },
+        {
+          "id": "yoon-yeondo-call-023",
+          "contactId": null,
+          "contactName": "오래된 지인",
+          "timestamp": "2026-10-14T18:36:00+09:00",
+          "direction": "missed",
+          "status": "missed",
+          "durationSeconds": 0
+        },
+        {
+          "id": "yoon-yeondo-call-022",
+          "contactId": null,
+          "contactName": "미술부 부장",
+          "timestamp": "2026-10-07T16:48:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 25
+        },
+        {
+          "id": "yoon-yeondo-call-021",
+          "contactId": null,
+          "contactName": "해수여고 교무부",
+          "timestamp": "2026-10-06T14:18:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 128
+        },
+        {
+          "id": "yoon-yeondo-call-020",
+          "contactId": null,
+          "contactName": "전시자료실",
+          "timestamp": "2026-09-23T11:35:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 56
+        },
+        {
+          "id": "yoon-yeondo-call-005",
+          "contactId": "lim-hyeongwoo",
+          "contactName": "임형우",
+          "timestamp": "2026-09-22T14:02:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 123,
+          "sharedCallId": "shared-lim-hyeongwoo-yoon-yeondo-202609221402"
+        },
+        {
+          "id": "yoon-yeondo-call-019",
+          "contactId": null,
+          "contactName": "오래된 지인",
+          "timestamp": "2026-09-17T19:02:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 47
+        },
+        {
+          "id": "yoon-yeondo-call-003",
+          "contactId": "choi-doan",
+          "contactName": "최도안",
+          "timestamp": "2026-09-16T17:25:00+09:00",
+          "direction": "outgoing",
+          "status": "unanswered",
+          "durationSeconds": 0,
+          "sharedCallId": "shared-choi-doan-yoon-yeondo-202609161725"
+        },
+        {
+          "id": "yoon-yeondo-call-007",
+          "contactId": "kang-ryeoun",
+          "contactName": "강려운",
+          "timestamp": "2026-09-09T16:32:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 123,
+          "sharedCallId": "shared-yoon-yeondo-kang-ryeoun-202609091632"
+        },
+        {
+          "id": "yoon-yeondo-call-018",
+          "contactId": null,
+          "contactName": "화방",
+          "timestamp": "2026-08-25T16:05:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 88
+        },
+        {
+          "id": "yoon-yeondo-call-017",
+          "contactId": null,
+          "contactName": "화방",
+          "timestamp": "2026-07-14T13:01:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 76
+        },
+        {
+          "id": "yoon-yeondo-call-016",
+          "contactId": null,
+          "contactName": "전시자료실",
+          "timestamp": "2026-07-02T10:48:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 114
+        },
+        {
+          "id": "yoon-yeondo-call-015",
+          "contactId": null,
+          "contactName": "미술부 부장",
+          "timestamp": "2026-06-22T16:54:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 36
+        },
+        {
+          "id": "yoon-yeondo-call-014",
+          "contactId": null,
+          "contactName": "오래된 지인",
+          "timestamp": "2026-06-07T13:43:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 331
+        },
+        {
+          "id": "yoon-yeondo-call-004",
+          "contactId": "lim-hyeongwoo",
+          "contactName": "임형우",
+          "timestamp": "2026-05-21T15:48:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 43,
+          "sharedCallId": "shared-lim-hyeongwoo-yoon-yeondo-202605211548"
+        },
+        {
+          "id": "yoon-yeondo-call-013",
+          "contactId": null,
+          "contactName": "해수여고 교무부",
+          "timestamp": "2026-05-18T15:22:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 95
+        },
+        {
+          "id": "yoon-yeondo-call-002",
+          "contactId": "choi-doan",
+          "contactName": "최도안",
+          "timestamp": "2026-05-08T16:40:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 56,
+          "sharedCallId": "shared-choi-doan-yoon-yeondo-202605081640"
+        },
+        {
+          "id": "yoon-yeondo-call-012",
+          "contactId": null,
+          "contactName": "화방",
+          "timestamp": "2026-04-22T14:40:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 61
+        },
+        {
+          "id": "yoon-yeondo-call-006",
+          "contactId": "kang-ryeoun",
+          "contactName": "강려운",
+          "timestamp": "2026-04-17T16:20:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 47,
+          "sharedCallId": "shared-yoon-yeondo-kang-ryeoun-202604171620"
+        },
+        {
+          "id": "yoon-yeondo-call-011",
+          "contactId": null,
+          "contactName": "미술부 부장",
+          "timestamp": "2026-03-31T15:16:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 29
+        },
+        {
+          "id": "yoon-yeondo-call-010",
+          "contactId": null,
+          "contactName": "오래된 지인",
+          "timestamp": "2026-03-28T17:11:00+09:00",
+          "direction": "missed",
+          "status": "missed",
+          "durationSeconds": 0
+        },
+        {
+          "id": "yoon-yeondo-call-009",
+          "contactId": null,
+          "contactName": "화방",
+          "timestamp": "2026-03-23T13:08:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 92
+        },
+        {
+          "id": "yoon-yeondo-call-001",
+          "contactId": "choi-doan",
+          "contactName": "최도안",
+          "timestamp": "2026-03-11T14:33:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 108,
+          "sharedCallId": "shared-choi-doan-yoon-yeondo-202603111433"
+        },
+        {
+          "id": "yoon-yeondo-call-008",
+          "contactId": null,
+          "contactName": "해수여고 교무부",
+          "timestamp": "2026-03-04T09:27:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 47
+        }
+      ]
+    },
+    "kang-ryeoun": {
+      "displayName": "강려운",
+      "note": "해수여고 1학년 3반 학생의 친구, 반장, 담임·과목 교사, 러시아 시절 친구, 아버지와의 연락을 중심으로 한 창작 기록. 가족사에 관한 공백을 남김.",
+      "calls": [
+        {
+          "id": "kang-ryeoun-call-029",
+          "contactId": null,
+          "contactName": "같은 반 친구",
+          "timestamp": "2026-10-13T18:42:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 173
+        },
+        {
+          "id": "kang-ryeoun-call-028",
+          "contactId": null,
+          "contactName": "1학년 3반 반장",
+          "timestamp": "2026-10-08T15:55:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 43
+        },
+        {
+          "id": "kang-ryeoun-call-027",
+          "contactId": null,
+          "contactName": "러시아 때 친구",
+          "timestamp": "2026-09-29T20:41:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 258
+        },
+        {
+          "id": "kang-ryeoun-call-026",
+          "contactId": null,
+          "contactName": "아빠",
+          "timestamp": "2026-09-27T18:06:00+09:00",
+          "direction": "outgoing",
+          "status": "unanswered",
+          "durationSeconds": 0
+        },
+        {
+          "id": "kang-ryeoun-call-025",
+          "contactId": null,
+          "contactName": "아빠",
+          "timestamp": "2026-09-16T17:32:00+09:00",
+          "direction": "outgoing",
+          "status": "unanswered",
+          "durationSeconds": 0
+        },
+        {
+          "id": "kang-ryeoun-call-008",
+          "contactId": "yoon-yeondo",
+          "contactName": "윤연도",
+          "timestamp": "2026-09-09T16:32:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 123,
+          "sharedCallId": "shared-yoon-yeondo-kang-ryeoun-202609091632"
+        },
+        {
+          "id": "kang-ryeoun-call-006",
+          "contactId": "lim-hyeongwoo",
+          "contactName": "임형우",
+          "timestamp": "2026-09-07T15:30:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 180,
+          "sharedCallId": "shared-lim-hyeongwoo-kang-ryeoun-202609071530"
+        },
+        {
+          "id": "kang-ryeoun-call-024",
+          "contactId": null,
+          "contactName": "아빠",
+          "timestamp": "2026-09-05T14:02:00+09:00",
+          "direction": "outgoing",
+          "status": "unanswered",
+          "durationSeconds": 0
+        },
+        {
+          "id": "kang-ryeoun-call-004",
+          "contactId": "choi-doan",
+          "contactName": "최도안",
+          "timestamp": "2026-09-04T16:12:00+09:00",
+          "direction": "outgoing",
+          "status": "unanswered",
+          "durationSeconds": 0,
+          "sharedCallId": "shared-choi-doan-kang-ryeoun-202609041612"
+        },
+        {
+          "id": "kang-ryeoun-call-023",
+          "contactId": null,
+          "contactName": "아빠",
+          "timestamp": "2026-09-02T19:28:00+09:00",
+          "direction": "missed",
+          "status": "missed",
+          "durationSeconds": 0
+        },
+        {
+          "id": "kang-ryeoun-call-022",
+          "contactId": null,
+          "contactName": "아빠",
+          "timestamp": "2026-08-29T11:48:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 79
+        },
+        {
+          "id": "kang-ryeoun-call-021",
+          "contactId": null,
+          "contactName": "러시아 때 친구",
+          "timestamp": "2026-08-19T19:03:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 315
+        },
+        {
+          "id": "kang-ryeoun-call-020",
+          "contactId": null,
+          "contactName": "같은 반 친구",
+          "timestamp": "2026-07-20T16:53:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 222
+        },
+        {
+          "id": "kang-ryeoun-call-019",
+          "contactId": null,
+          "contactName": "아빠",
+          "timestamp": "2026-07-04T20:06:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 58
+        },
+        {
+          "id": "kang-ryeoun-call-003",
+          "contactId": "choi-doan",
+          "contactName": "최도안",
+          "timestamp": "2026-06-11T15:50:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 198,
+          "sharedCallId": "shared-choi-doan-kang-ryeoun-202606111550"
+        },
+        {
+          "id": "kang-ryeoun-call-018",
+          "contactId": null,
+          "contactName": "같은 반 친구",
+          "timestamp": "2026-06-10T17:09:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 167
+        },
+        {
+          "id": "kang-ryeoun-call-017",
+          "contactId": null,
+          "contactName": "러시아 때 친구",
+          "timestamp": "2026-05-19T21:05:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 612
+        },
+        {
+          "id": "kang-ryeoun-call-005",
+          "contactId": "lim-hyeongwoo",
+          "contactName": "임형우",
+          "timestamp": "2026-05-14T16:10:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 73,
+          "sharedCallId": "shared-lim-hyeongwoo-kang-ryeoun-202605141610"
+        },
+        {
+          "id": "kang-ryeoun-call-016",
+          "contactId": null,
+          "contactName": "아빠",
+          "timestamp": "2026-05-05T12:24:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 159
+        },
+        {
+          "id": "kang-ryeoun-call-015",
+          "contactId": null,
+          "contactName": "1학년 3반 반장",
+          "timestamp": "2026-04-28T16:22:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 48
+        },
+        {
+          "id": "kang-ryeoun-call-014",
+          "contactId": null,
+          "contactName": "같은 반 친구",
+          "timestamp": "2026-04-17T18:15:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 186
+        },
+        {
+          "id": "kang-ryeoun-call-007",
+          "contactId": "yoon-yeondo",
+          "contactName": "윤연도",
+          "timestamp": "2026-04-17T16:20:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 47,
+          "sharedCallId": "shared-yoon-yeondo-kang-ryeoun-202604171620"
+        },
+        {
+          "id": "kang-ryeoun-call-002",
+          "contactId": "choi-doan",
+          "contactName": "최도안",
+          "timestamp": "2026-04-09T16:10:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 85,
+          "sharedCallId": "shared-choi-doan-kang-ryeoun-202604091610"
+        },
+        {
+          "id": "kang-ryeoun-call-013",
+          "contactId": null,
+          "contactName": "아빠",
+          "timestamp": "2026-03-28T18:19:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 104
+        },
+        {
+          "id": "kang-ryeoun-call-001",
+          "contactId": "choi-doan",
+          "contactName": "최도안",
+          "timestamp": "2026-03-18T16:41:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 132,
+          "sharedCallId": "shared-choi-doan-kang-ryeoun-202603181641"
+        },
+        {
+          "id": "kang-ryeoun-call-012",
+          "contactId": null,
+          "contactName": "1학년 3반 반장",
+          "timestamp": "2026-03-12T17:50:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 62
+        },
+        {
+          "id": "kang-ryeoun-call-011",
+          "contactId": null,
+          "contactName": "같은 반 친구",
+          "timestamp": "2026-03-06T16:18:00+09:00",
+          "direction": "outgoing",
+          "status": "completed",
+          "durationSeconds": 201
+        },
+        {
+          "id": "kang-ryeoun-call-010",
+          "contactId": null,
+          "contactName": "러시아 때 친구",
+          "timestamp": "2026-02-25T22:07:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 528
+        },
+        {
+          "id": "kang-ryeoun-call-009",
+          "contactId": null,
+          "contactName": "아빠",
+          "timestamp": "2026-02-22T19:46:00+09:00",
+          "direction": "incoming",
+          "status": "completed",
+          "durationSeconds": 185
+        }
+      ]
+    }
+  }
+}

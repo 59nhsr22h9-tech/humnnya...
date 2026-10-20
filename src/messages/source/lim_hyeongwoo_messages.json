@@ -1,0 +1,744 @@
+{
+  "characterId": "lim-hyeongwoo",
+  "characterName": "임형우",
+  "fictional": true,
+  "displayMode": "read-only",
+  "notes": "해수여고 영어교사이자 교내 전산·시간표 실무에 능숙한 임형우의 창작 문자 기록 초안. 최도안과의 기존 기록 18건은 내용과 시각을 그대로 보존해 양쪽 기기에서 일치하도록 구성. 다른 대화는 기존 설정을 바탕으로 새롭게 지은 창작 장면으로, 확정하지 않은 과거사는 열린 채로 둠. owner는 임형우, contact는 상대방.",
+  "conversations": [
+    {
+      "id": "lim-hyeongwoo__choi-doan",
+      "contactId": "choi-doan",
+      "contactName": "최도안",
+      "category": "동료 교사",
+      "writingNote": "최도안의 기존 메시지 데이터와 1:1로 일치하도록 발신/수신을 반전하여 복사함.",
+      "messages": [
+        {
+          "id": "choi-doan-001",
+          "sender": "owner",
+          "sentAt": "2026-03-06T08:21:00+09:00",
+          "text": "최 선생님, 학년 공용 폴더 권한 설정 완료했습니다. 시간표도 올려 두었습니다."
+        },
+        {
+          "id": "choi-doan-002",
+          "sender": "contact",
+          "sentAt": "2026-03-06T08:26:00+09:00",
+          "text": "감사합니다. 접속 확인했습니다."
+        },
+        {
+          "id": "choi-doan-003",
+          "sender": "owner",
+          "sentAt": "2026-03-06T08:28:00+09:00",
+          "text": "학교 와이파이는 가끔 끊깁니다. 접속이 안 되면 선생님 탓은 아닙니다."
+        },
+        {
+          "id": "choi-doan-004",
+          "sender": "contact",
+          "sentAt": "2026-03-06T08:32:00+09:00",
+          "text": "그건 조금 안심이 되는군요."
+        },
+        {
+          "id": "choi-doan-005",
+          "sender": "owner",
+          "sentAt": "2026-04-23T16:20:00+09:00",
+          "text": "1학년 3반 출결 파일이 두 개 생겼습니다. 파일명 끝에 공백이 들어가 있더군요."
+        },
+        {
+          "id": "choi-doan-006",
+          "sender": "contact",
+          "sentAt": "2026-04-23T16:24:00+09:00",
+          "text": "제가 수정하겠습니다."
+        },
+        {
+          "id": "choi-doan-007",
+          "sender": "owner",
+          "sentAt": "2026-04-23T16:27:00+09:00",
+          "text": "이미 정리했습니다. 데이터에는 문제 없습니다."
+        },
+        {
+          "id": "choi-doan-008",
+          "sender": "contact",
+          "sentAt": "2026-04-23T16:30:00+09:00",
+          "text": "수고를 덜어 드리려 했는데 늘 한발 늦네요."
+        },
+        {
+          "id": "choi-doan-009",
+          "sender": "owner",
+          "sentAt": "2026-04-23T16:34:00+09:00",
+          "text": "빠른 게 취미라서요."
+        },
+        {
+          "id": "choi-doan-010",
+          "sender": "contact",
+          "sentAt": "2026-06-04T17:46:00+09:00",
+          "text": "시간표 프로그램도 직접 만드셨다고 들었습니다."
+        },
+        {
+          "id": "choi-doan-011",
+          "sender": "owner",
+          "sentAt": "2026-06-04T17:52:00+09:00",
+          "text": "오래전에 만든 걸 아직 고쳐 쓰고 있습니다. 최신 프로그램보다 익숙한 게 낫더군요."
+        },
+        {
+          "id": "choi-doan-012",
+          "sender": "contact",
+          "sentAt": "2026-06-04T17:59:00+09:00",
+          "text": "그렇게 오래 유지하시는 것도 능력입니다."
+        },
+        {
+          "id": "choi-doan-013",
+          "sender": "owner",
+          "sentAt": "2026-06-04T18:06:00+09:00",
+          "text": "한때는 새것만 찾았는데, 요즘은 예전 것이 자꾸 눈에 들어옵니다."
+        },
+        {
+          "id": "choi-doan-014",
+          "sender": "contact",
+          "sentAt": "2026-09-16T15:05:00+09:00",
+          "text": "임 선생님, 이번 가정통신문 발송 일정 확인 부탁드립니다."
+        },
+        {
+          "id": "choi-doan-015",
+          "sender": "owner",
+          "sentAt": "2026-09-16T15:09:00+09:00",
+          "text": "19일 오후 4시입니다. 제가 발송하겠습니다."
+        },
+        {
+          "id": "choi-doan-016",
+          "sender": "owner",
+          "sentAt": "2026-09-16T15:12:00+09:00",
+          "text": "참, 내일은 둘째 아이 행사 때문에 일찍 퇴근합니다."
+        },
+        {
+          "id": "choi-doan-017",
+          "sender": "contact",
+          "sentAt": "2026-09-16T15:15:00+09:00",
+          "text": "그럼 교무회의 내용은 제가 정리해 두겠습니다."
+        },
+        {
+          "id": "choi-doan-018",
+          "sender": "owner",
+          "sentAt": "2026-09-16T15:18:00+09:00",
+          "text": "감사합니다. 저녁에 파일만 확인하겠습니다."
+        }
+      ]
+    },
+    {
+      "id": "lim-hyeongwoo__yoon-yeondo",
+      "contactId": "yoon-yeondo",
+      "contactName": "윤연도",
+      "category": "동료 교사",
+      "messages": [
+        {
+          "id": "yoon-yeondo-001",
+          "sender": "owner",
+          "sentAt": "2026-03-13T16:08:00+09:00",
+          "text": "윤 선생님, 영어 동아리 안내문에 들어갈 그림은 어느 쪽으로 전달하면 될까요?"
+        },
+        {
+          "id": "yoon-yeondo-002",
+          "sender": "contact",
+          "sentAt": "2026-03-13T16:41:00+09:00",
+          "text": "교무실 책상 위에 두겠습니다."
+        },
+        {
+          "id": "yoon-yeondo-003",
+          "sender": "owner",
+          "sentAt": "2026-03-13T16:44:00+09:00",
+          "text": "파일로도 괜찮습니다. 제가 크기 맞춰서 출력하겠습니다."
+        },
+        {
+          "id": "yoon-yeondo-004",
+          "sender": "contact",
+          "sentAt": "2026-03-13T16:59:00+09:00",
+          "text": "종이에 그렸습니다. 스캔해서 보내야겠네요."
+        },
+        {
+          "id": "yoon-yeondo-005",
+          "sender": "owner",
+          "sentAt": "2026-03-13T17:03:00+09:00",
+          "text": "종이 그대로 주셔도 됩니다. 기계는 제가 설득하겠습니다."
+        },
+        {
+          "id": "yoon-yeondo-006",
+          "sender": "contact",
+          "sentAt": "2026-04-27T18:02:00+09:00",
+          "text": "전시 안내문 출력이 자꾸 왼쪽으로 밀립니다."
+        },
+        {
+          "id": "yoon-yeondo-007",
+          "sender": "owner",
+          "sentAt": "2026-04-27T18:06:00+09:00",
+          "text": "원본 파일 보내주시면 여백부터 보겠습니다."
+        },
+        {
+          "id": "yoon-yeondo-008",
+          "sender": "contact",
+          "sentAt": "2026-04-27T18:09:00+09:00",
+          "text": "제가 뭘 잘못 건드렸나 봅니다."
+        },
+        {
+          "id": "yoon-yeondo-009",
+          "sender": "owner",
+          "sentAt": "2026-04-27T18:11:00+09:00",
+          "text": "프린터가 잘못한 걸 수도 있습니다. 일단 서로 탓하지 마시죠."
+        },
+        {
+          "id": "yoon-yeondo-010",
+          "sender": "contact",
+          "sentAt": "2026-04-27T18:26:00+09:00",
+          "text": "맞았습니다. 프린터 쪽이었네요."
+        },
+        {
+          "id": "yoon-yeondo-011",
+          "sender": "owner",
+          "sentAt": "2026-05-21T17:14:00+09:00",
+          "text": "지난번 작품 설명문에 비워 두신 칸이 있더군요. 인쇄 전에 확인차 연락드립니다."
+        },
+        {
+          "id": "yoon-yeondo-012",
+          "sender": "contact",
+          "sentAt": "2026-05-21T17:23:00+09:00",
+          "text": "비워 두려고 한 겁니다."
+        },
+        {
+          "id": "yoon-yeondo-013",
+          "sender": "owner",
+          "sentAt": "2026-05-21T17:25:00+09:00",
+          "text": "알겠습니다. 그 칸은 그대로 두겠습니다."
+        },
+        {
+          "id": "yoon-yeondo-014",
+          "sender": "contact",
+          "sentAt": "2026-07-09T19:08:00+09:00",
+          "text": "영어실 빔프로젝터 전원이 안 꺼져서요. 당직실에 말해야 합니까?"
+        },
+        {
+          "id": "yoon-yeondo-015",
+          "sender": "owner",
+          "sentAt": "2026-07-09T19:11:00+09:00",
+          "text": "리모컨 배터리 문제일 수 있습니다. 본체 버튼 한번 눌러 보시겠어요?"
+        },
+        {
+          "id": "yoon-yeondo-016",
+          "sender": "contact",
+          "sentAt": "2026-07-09T19:14:00+09:00",
+          "text": "꺼졌습니다. 감사합니다."
+        },
+        {
+          "id": "yoon-yeondo-017",
+          "sender": "owner",
+          "sentAt": "2026-07-09T19:17:00+09:00",
+          "text": "다행입니다. 내일은 배터리 바꿔 두겠습니다."
+        },
+        {
+          "id": "yoon-yeondo-018",
+          "sender": "owner",
+          "sentAt": "2026-09-22T17:39:00+09:00",
+          "text": "미술실 앞에 학생들이 두고 간 물품 목록을 전달받았습니다. 교무실에 붙일까요?"
+        },
+        {
+          "id": "yoon-yeondo-019",
+          "sender": "contact",
+          "sentAt": "2026-09-22T18:02:00+09:00",
+          "text": "아닙니다. 찾으러 오는 학생이 많아서 제가 직접 보관하겠습니다."
+        },
+        {
+          "id": "yoon-yeondo-020",
+          "sender": "owner",
+          "sentAt": "2026-09-22T18:07:00+09:00",
+          "text": "알겠습니다. 선생님이 계신 곳으로 안내하겠습니다."
+        }
+      ],
+      "writingNote": "서로 깊이 캐묻지 않지만 상대가 비워 둔 부분을 존중하는 관계. 건조한 농담과 짧은 답장."
+    },
+    {
+      "id": "lim-hyeongwoo__kang-ryeoun",
+      "contactId": "kang-ryeoun",
+      "contactName": "강려운",
+      "category": "학생",
+      "messages": [
+        {
+          "id": "kang-ryeoun-001",
+          "sender": "contact",
+          "sentAt": "2026-03-20T16:09:00+09:00",
+          "text": "선생님 듣기평가 대본 어디서 받을 수 있어요?"
+        },
+        {
+          "id": "kang-ryeoun-002",
+          "sender": "owner",
+          "sentAt": "2026-03-20T16:13:00+09:00",
+          "text": "학교 홈페이지 영어과 자료실에 올려 뒀습니다. 안 보이면 내일 프린트로 줄게요."
+        },
+        {
+          "id": "kang-ryeoun-003",
+          "sender": "contact",
+          "sentAt": "2026-03-20T16:16:00+09:00",
+          "text": "찾았어요 감사합니다"
+        },
+        {
+          "id": "kang-ryeoun-004",
+          "sender": "owner",
+          "sentAt": "2026-03-20T16:18:00+09:00",
+          "text": "네. 모르는 표현은 표시해 두세요."
+        },
+        {
+          "id": "kang-ryeoun-005",
+          "sender": "contact",
+          "sentAt": "2026-06-11T18:02:00+09:00",
+          "text": "선생님 제가 발표할 때 발음이 좀 이상했나요"
+        },
+        {
+          "id": "kang-ryeoun-006",
+          "sender": "owner",
+          "sentAt": "2026-06-11T18:09:00+09:00",
+          "text": "그렇지 않았습니다. 내용 전달은 충분히 됐어요."
+        },
+        {
+          "id": "kang-ryeoun-007",
+          "sender": "contact",
+          "sentAt": "2026-06-11T18:11:00+09:00",
+          "text": "애들이 자꾸 웃어서요"
+        },
+        {
+          "id": "kang-ryeoun-008",
+          "sender": "owner",
+          "sentAt": "2026-06-11T18:15:00+09:00",
+          "text": "그 일은 제가 수업 시간에 다시 이야기하겠습니다. 네 발표가 틀렸다는 뜻은 아닙니다."
+        },
+        {
+          "id": "kang-ryeoun-009",
+          "sender": "contact",
+          "sentAt": "2026-06-11T18:18:00+09:00",
+          "text": "네 알겠습니다"
+        },
+        {
+          "id": "kang-ryeoun-010",
+          "sender": "owner",
+          "sentAt": "2026-07-15T17:22:00+09:00",
+          "text": "려운 학생, 지난번 과제에서 두 번째 문장이 빠졌습니다. 제출 오류인지 확인해 주세요."
+        },
+        {
+          "id": "kang-ryeoun-011",
+          "sender": "contact",
+          "sentAt": "2026-07-15T17:30:00+09:00",
+          "text": "제가 지웠나 봐요 다시 내도 될까요"
+        },
+        {
+          "id": "kang-ryeoun-012",
+          "sender": "owner",
+          "sentAt": "2026-07-15T17:34:00+09:00",
+          "text": "내일 점심시간 전까지 다시 내면 됩니다. 서두르지 않아도 돼요."
+        },
+        {
+          "id": "kang-ryeoun-013",
+          "sender": "contact",
+          "sentAt": "2026-07-15T17:38:00+09:00",
+          "text": "네 감사합니다"
+        },
+        {
+          "id": "kang-ryeoun-014",
+          "sender": "contact",
+          "sentAt": "2026-09-07T20:14:00+09:00",
+          "text": "선생님 영어 수행에서 가족 이야기 꼭 써야 돼요?"
+        },
+        {
+          "id": "kang-ryeoun-015",
+          "sender": "owner",
+          "sentAt": "2026-09-07T20:20:00+09:00",
+          "text": "아니요. 본인이 편하게 쓸 수 있는 일상이나 책 이야기로 바꿔도 됩니다."
+        },
+        {
+          "id": "kang-ryeoun-016",
+          "sender": "contact",
+          "sentAt": "2026-09-07T20:22:00+09:00",
+          "text": "그렇게 해도 감점 없죠?"
+        },
+        {
+          "id": "kang-ryeoun-017",
+          "sender": "owner",
+          "sentAt": "2026-09-07T20:25:00+09:00",
+          "text": "평가 기준만 충족하면 없습니다. 과제는 영어 표현을 보는 거니까요."
+        }
+      ],
+      "writingNote": "담임이 아닌 영어교사로서 학업과 학급 내 분위기에만 관여하며 불필요한 개인사 질문을 하지 않음."
+    },
+    {
+      "id": "lim-hyeongwoo__english-dept",
+      "contactId": "english-dept",
+      "contactName": "영어과 동료",
+      "category": "동료 교사",
+      "messages": [
+        {
+          "id": "english-dept-001",
+          "sender": "contact",
+          "sentAt": "2026-03-04T12:22:00+09:00",
+          "text": "임 선생님, 말하기 수행평가 채점표 작년 거 그대로 써도 될까요?"
+        },
+        {
+          "id": "english-dept-002",
+          "sender": "owner",
+          "sentAt": "2026-03-04T12:28:00+09:00",
+          "text": "기준표는 바뀌었습니다. 올해 양식으로 올려 두겠습니다."
+        },
+        {
+          "id": "english-dept-003",
+          "sender": "contact",
+          "sentAt": "2026-03-04T12:30:00+09:00",
+          "text": "또 선생님이 먼저 하셨군요."
+        },
+        {
+          "id": "english-dept-004",
+          "sender": "owner",
+          "sentAt": "2026-03-04T12:34:00+09:00",
+          "text": "작년 파일 이름을 봤더니 제가 헷갈리게 지었더군요. 올해는 고쳤습니다."
+        },
+        {
+          "id": "english-dept-005",
+          "sender": "contact",
+          "sentAt": "2026-04-28T14:52:00+09:00",
+          "text": "듣기평가 음원 파일이 열리지 않아요. 제 컴퓨터만 그럴까요?"
+        },
+        {
+          "id": "english-dept-006",
+          "sender": "owner",
+          "sentAt": "2026-04-28T14:55:00+09:00",
+          "text": "파일 확인했습니다. 확장자가 잘못 붙어 있네요. 새 파일 공유했습니다."
+        },
+        {
+          "id": "english-dept-007",
+          "sender": "contact",
+          "sentAt": "2026-04-28T14:56:00+09:00",
+          "text": "2분 만에요?"
+        },
+        {
+          "id": "english-dept-008",
+          "sender": "owner",
+          "sentAt": "2026-04-28T14:59:00+09:00",
+          "text": "수업 시간 2분은 깁니다."
+        },
+        {
+          "id": "english-dept-009",
+          "sender": "contact",
+          "sentAt": "2026-05-20T17:06:00+09:00",
+          "text": "스피커도 고쳐 주셨다면서요. 이제 정보 담당까지 하시는 건가요?"
+        },
+        {
+          "id": "english-dept-010",
+          "sender": "owner",
+          "sentAt": "2026-05-20T17:12:00+09:00",
+          "text": "영어도 가끔 가르칩니다."
+        },
+        {
+          "id": "english-dept-011",
+          "sender": "contact",
+          "sentAt": "2026-05-20T17:15:00+09:00",
+          "text": "가끔이란 말이 더 슬프네요."
+        },
+        {
+          "id": "english-dept-012",
+          "sender": "owner",
+          "sentAt": "2026-05-20T17:18:00+09:00",
+          "text": "내일 3교시는 확실히 영어를 가르칠 예정입니다."
+        },
+        {
+          "id": "english-dept-013",
+          "sender": "contact",
+          "sentAt": "2026-08-27T19:02:00+09:00",
+          "text": "개학하고도 작년 듣기자료 찾는 학생들이 있네요."
+        },
+        {
+          "id": "english-dept-014",
+          "sender": "owner",
+          "sentAt": "2026-08-27T19:10:00+09:00",
+          "text": "옛날 자료를 지우지 않은 보람이 있군요."
+        },
+        {
+          "id": "english-dept-015",
+          "sender": "contact",
+          "sentAt": "2026-08-27T19:13:00+09:00",
+          "text": "선생님은 파일을 절대 안 버리시죠?"
+        },
+        {
+          "id": "english-dept-016",
+          "sender": "owner",
+          "sentAt": "2026-08-27T19:18:00+09:00",
+          "text": "필요 없다고 확신할 때만 버립니다. 대체로 확신을 못 하고요."
+        }
+      ],
+      "writingNote": "실무 중심, 약간의 자조와 업무 농담이 오가는 영어과 동료 대화."
+    },
+    {
+      "id": "lim-hyeongwoo__family",
+      "contactId": "family",
+      "contactName": "집",
+      "category": "가족",
+      "messages": [
+        {
+          "id": "family-001",
+          "sender": "contact",
+          "sentAt": "2026-03-07T17:32:00+09:00",
+          "text": "오늘은 몇 시쯤 와? 아이들 저녁 먼저 먹이려고."
+        },
+        {
+          "id": "family-002",
+          "sender": "owner",
+          "sentAt": "2026-03-07T17:35:00+09:00",
+          "text": "여섯 시 반쯤. 회의가 조금 늦어졌어."
+        },
+        {
+          "id": "family-003",
+          "sender": "contact",
+          "sentAt": "2026-03-07T17:37:00+09:00",
+          "text": "둘째는 아빠랑 밥 먹겠다고 기다린대."
+        },
+        {
+          "id": "family-004",
+          "sender": "owner",
+          "sentAt": "2026-03-07T17:39:00+09:00",
+          "text": "먼저 먹으라고 해. 돌아가서 옆에 앉아 있을게."
+        },
+        {
+          "id": "family-005",
+          "sender": "contact",
+          "sentAt": "2026-05-12T20:03:00+09:00",
+          "text": "첫째가 컴퓨터로 숙제하다가 화면을 날렸대."
+        },
+        {
+          "id": "family-006",
+          "sender": "owner",
+          "sentAt": "2026-05-12T20:07:00+09:00",
+          "text": "어디까지 했는지 물어봐 줘. 자동 저장이면 남아 있을 수도 있어."
+        },
+        {
+          "id": "family-007",
+          "sender": "contact",
+          "sentAt": "2026-05-12T20:11:00+09:00",
+          "text": "찾았어. 지금은 아빠가 대단한 사람이라네."
+        },
+        {
+          "id": "family-008",
+          "sender": "owner",
+          "sentAt": "2026-05-12T20:15:00+09:00",
+          "text": "내일 아침이면 다시 평범해질 거야."
+        },
+        {
+          "id": "family-009",
+          "sender": "contact",
+          "sentAt": "2026-09-16T15:00:00+09:00",
+          "text": "내일 둘째 행사 네 시 맞지? 진짜 올 수 있어?"
+        },
+        {
+          "id": "family-010",
+          "sender": "owner",
+          "sentAt": "2026-09-16T15:02:00+09:00",
+          "text": "일찍 나가겠다고 말해 뒀어. 갈 수 있어."
+        },
+        {
+          "id": "family-011",
+          "sender": "contact",
+          "sentAt": "2026-09-16T15:04:00+09:00",
+          "text": "아이가 계속 아빠 자리 있다고 말해."
+        },
+        {
+          "id": "family-012",
+          "sender": "owner",
+          "sentAt": "2026-09-16T15:07:00+09:00",
+          "text": "비워 두지 않겠다고 전해 줘."
+        },
+        {
+          "id": "family-013",
+          "sender": "contact",
+          "sentAt": "2026-09-17T18:41:00+09:00",
+          "text": "오늘 정말 와서 다행이야. 둘째가 사진 열 번은 보여 줬어."
+        },
+        {
+          "id": "family-014",
+          "sender": "owner",
+          "sentAt": "2026-09-17T18:45:00+09:00",
+          "text": "나는 두 번밖에 못 봤는데."
+        },
+        {
+          "id": "family-015",
+          "sender": "contact",
+          "sentAt": "2026-09-17T18:47:00+09:00",
+          "text": "집에 오면 나머지 여덟 번 보여 줄 거야."
+        },
+        {
+          "id": "family-016",
+          "sender": "owner",
+          "sentAt": "2026-09-17T18:49:00+09:00",
+          "text": "준비하고 가겠습니다."
+        }
+      ],
+      "writingNote": "집에서는 문장을 짧게 쓰고, 아이들의 사소한 순간을 기억하려 하는 모습. 가족 구성에 관한 이 대화는 창작 초안이다."
+    },
+    {
+      "id": "lim-hyeongwoo__university-friend",
+      "contactId": "university-friend",
+      "contactName": "대학 동기",
+      "category": "오래된 친구",
+      "messages": [
+        {
+          "id": "university-friend-001",
+          "sender": "contact",
+          "sentAt": "2026-02-26T21:06:00+09:00",
+          "text": "옛날 하드디스크 정리하다가 네 이름 봤다. 아직도 그 프로그램 써?"
+        },
+        {
+          "id": "university-friend-002",
+          "sender": "owner",
+          "sentAt": "2026-02-26T21:14:00+09:00",
+          "text": "조금씩 고쳐서 쓰고 있어."
+        },
+        {
+          "id": "university-friend-003",
+          "sender": "contact",
+          "sentAt": "2026-02-26T21:17:00+09:00",
+          "text": "대학 때는 뭐든 새로 만들겠다고 했잖아."
+        },
+        {
+          "id": "university-friend-004",
+          "sender": "owner",
+          "sentAt": "2026-02-26T21:20:00+09:00",
+          "text": "새로 만드는 것보다 고쳐 쓰는 게 어려울 때도 있더라."
+        },
+        {
+          "id": "university-friend-005",
+          "sender": "contact",
+          "sentAt": "2026-05-29T22:12:00+09:00",
+          "text": "우리 졸업 사진 찾았는데 너만 정면 안 보고 있더라."
+        },
+        {
+          "id": "university-friend-006",
+          "sender": "owner",
+          "sentAt": "2026-05-29T22:17:00+09:00",
+          "text": "그때도 사진 찍는 줄 몰랐을 거야."
+        },
+        {
+          "id": "university-friend-007",
+          "sender": "contact",
+          "sentAt": "2026-05-29T22:21:00+09:00",
+          "text": "우린 다 알아봤는데 넌 늘 한 박자 늦었어."
+        },
+        {
+          "id": "university-friend-008",
+          "sender": "owner",
+          "sentAt": "2026-05-29T22:25:00+09:00",
+          "text": "시간표 맞추는 일만큼은 내가 빨랐지."
+        },
+        {
+          "id": "university-friend-009",
+          "sender": "contact",
+          "sentAt": "2026-05-29T22:32:00+09:00",
+          "text": "그러고 보니 요즘도 학교에서 시간표 짜지?"
+        },
+        {
+          "id": "university-friend-010",
+          "sender": "owner",
+          "sentAt": "2026-05-29T22:38:00+09:00",
+          "text": "응. 다른 건 몰라도 종이 위의 시간은 아직 잘 맞는다."
+        },
+        {
+          "id": "university-friend-011",
+          "sender": "contact",
+          "sentAt": "2026-08-21T19:47:00+09:00",
+          "text": "그때 선택한 길 후회해 본 적 있냐."
+        },
+        {
+          "id": "university-friend-012",
+          "sender": "owner",
+          "sentAt": "2026-08-21T19:55:00+09:00",
+          "text": "후회한다기보다 다른 길이 어떻게 됐을지 가끔 궁금하지."
+        },
+        {
+          "id": "university-friend-013",
+          "sender": "contact",
+          "sentAt": "2026-08-21T20:01:00+09:00",
+          "text": "넌 꼭 어려운 말을 쉽게 하는 척해."
+        },
+        {
+          "id": "university-friend-014",
+          "sender": "owner",
+          "sentAt": "2026-08-21T20:07:00+09:00",
+          "text": "이건 쉬운 말로 할 수가 없네."
+        }
+      ],
+      "writingNote": "한때 다른 가능성을 꿈꿨으나 무엇이었는지 단정하지 않는 열린 서사."
+    },
+    {
+      "id": "lim-hyeongwoo__school-office",
+      "contactId": "school-office",
+      "contactName": "해수여고 교무부",
+      "category": "학교 업무",
+      "messages": [
+        {
+          "id": "school-office-001",
+          "sender": "contact",
+          "sentAt": "2026-03-05T09:03:00+09:00",
+          "text": "임 선생님, 신규 교원 계정 권한 등록이 아직 안 됐습니다."
+        },
+        {
+          "id": "school-office-002",
+          "sender": "owner",
+          "sentAt": "2026-03-05T09:07:00+09:00",
+          "text": "교무용 계정 확인하고 처리하겠습니다."
+        },
+        {
+          "id": "school-office-003",
+          "sender": "owner",
+          "sentAt": "2026-03-05T09:19:00+09:00",
+          "text": "권한 등록 완료했습니다. 이제 접속 가능할 겁니다."
+        },
+        {
+          "id": "school-office-004",
+          "sender": "contact",
+          "sentAt": "2026-05-07T14:12:00+09:00",
+          "text": "이번 주 영어 수행평가 입력 기한은 금요일 오후 5시입니다."
+        },
+        {
+          "id": "school-office-005",
+          "sender": "owner",
+          "sentAt": "2026-05-07T14:15:00+09:00",
+          "text": "확인했습니다. 입력 후 검토까지 마치겠습니다."
+        },
+        {
+          "id": "school-office-006",
+          "sender": "contact",
+          "sentAt": "2026-05-07T14:18:00+09:00",
+          "text": "학년 공용 폴더의 지난 학기 파일은 언제 정리할까요?"
+        },
+        {
+          "id": "school-office-007",
+          "sender": "owner",
+          "sentAt": "2026-05-07T14:21:00+09:00",
+          "text": "이번 학기 자료와 구분해 보관하겠습니다. 일괄 삭제는 하지 않겠습니다."
+        },
+        {
+          "id": "school-office-008",
+          "sender": "contact",
+          "sentAt": "2026-09-19T09:41:00+09:00",
+          "text": "19일 발송 예정 가정통신문은 처리됐습니까?"
+        },
+        {
+          "id": "school-office-009",
+          "sender": "owner",
+          "sentAt": "2026-09-19T09:47:00+09:00",
+          "text": "오후 4시에 발송 예약해 두었습니다. 문안은 최 선생님과 확인했습니다."
+        },
+        {
+          "id": "school-office-010",
+          "sender": "contact",
+          "sentAt": "2026-09-19T09:50:00+09:00",
+          "text": "감사합니다. 발송 후 결과만 공유 부탁드립니다."
+        },
+        {
+          "id": "school-office-011",
+          "sender": "owner",
+          "sentAt": "2026-09-19T16:13:00+09:00",
+          "text": "발송 완료됐습니다. 누락 건은 없습니다."
+        }
+      ],
+      "writingNote": "교무부의 반복적인 학교 행정 업무. 전산 담당자로서 임형우의 역할이 드러남."
+    }
+  ]
+}
